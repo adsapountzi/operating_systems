@@ -1,0 +1,1098 @@
+###-Starting CPU-###
+(Init:0)/0/0ms - Switching Process In
+(Init:0)/0/9ms - Switching Process In
+(Init:0)/0/19ms - Switching Process In
+(Init:0)/0/29ms - Switching Process In
+(Init:0)/0/39ms - Switching Process In
+###-Process: (Papakia:1) has been created-###
+--------------------IN FOR LOOP 2-----------------
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 0
+--------------------EXIT FOR LOOP-----------------
+(Papakia:1)/100/40ms - Switching Process In
+###-Process: (Vatraxakia:2) has been created-###
+--------------------IN FOR LOOP 3-----------------
+head: 0x5606867af2a0 temp:0x5606867b0d90 -> 0
+head: 0x5606867af2a0 current:0x5606867b0cd0 -> 0
+--------------------EXIT FOR LOOP-----------------
+(Vatraxakia:2)/100/41ms - Switching Process In
+###-Process: (Tigrakia:3) has been created-###
+--------------------IN FOR LOOP 4-----------------
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 0
+head: 0x5606867af2a0 current:0x5606867b0d90 -> 0
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 0
+--------------------EXIT FOR LOOP-----------------
+(Tigrakia:3)/100/42ms - Switching Process In
+###-Process: (Gatakia:4) has been created-###
+--------------------IN FOR LOOP 5-----------------
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 0
+head: 0x5606867af2a0 current:0x5606867b0e50 -> 0
+head: 0x5606867af2a0 temp:0x5606867b0d90 -> 0
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 0
+--------------------EXIT FOR LOOP-----------------
+(Gatakia:4)/100/43ms - Switching Process In
+###-Process: (Skylakia:5) has been created-###
+###-Process: (Tavrakia:6) has been created-###
+###-Process: (Psarakia:7) has been created-###
+###-Process: (Helwnitses:8) has been created-###
+--------------------IN FOR LOOP 9-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 0
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 0
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 0
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 0
+head: 0x5606867af2a0 current:0x5606867b0f10 -> 0
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 0
+head: 0x5606867af2a0 temp:0x5606867b0d90 -> 0
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 0
+--------------------EXIT FOR LOOP-----------------
+(Helwnitses:8)/100/44ms - Switching Process In
+--------------------IN FOR LOOP 9-----------------
+head: 0x5606867af2a0 current:0x5606867b1210 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 0
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 0
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 0
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 0
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 0
+head: 0x5606867af2a0 temp:0x5606867b0d90 -> 0
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 0
+--------------------EXIT FOR LOOP-----------------
+(Psarakia:7)/100/49ms - Switching Process In
+--------------------IN FOR LOOP 9-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 6666666
+head: 0x5606867af2a0 current:0x5606867b1150 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 0
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 0
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 0
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 0
+head: 0x5606867af2a0 temp:0x5606867b0d90 -> 0
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 0
+--------------------EXIT FOR LOOP-----------------
+(Tavrakia:6)/100/59ms - Switching Process In
+--------------------IN FOR LOOP 9-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 6666666
+head: 0x5606867af2a0 current:0x5606867b1090 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 0
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 0
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 0
+head: 0x5606867af2a0 temp:0x5606867b0d90 -> 0
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 0
+--------------------EXIT FOR LOOP-----------------
+(Skylakia:5)/100/69ms - Switching Process In
+--------------------IN FOR LOOP 9-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 6666666
+head: 0x5606867af2a0 current:0x5606867b0fd0 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 0
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 0
+head: 0x5606867af2a0 temp:0x5606867b0d90 -> 0
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 0
+--------------------EXIT FOR LOOP-----------------
+(Gatakia:4)/100/79ms - Switching Process In
+--------------------IN FOR LOOP 9-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 6666666
+head: 0x5606867af2a0 current:0x5606867b0f10 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 0
+head: 0x5606867af2a0 temp:0x5606867b0d90 -> 0
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 0
+--------------------EXIT FOR LOOP-----------------
+(Tigrakia:3)/100/89ms - Switching Process In
+--------------------IN FOR LOOP 9-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 6666666
+head: 0x5606867af2a0 current:0x5606867b0e50 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0d90 -> 0
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 0
+--------------------EXIT FOR LOOP-----------------
+(Vatraxakia:2)/100/99ms - Switching Process In
+--------------------IN FOR LOOP 9-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 6666666
+head: 0x5606867af2a0 current:0x5606867b0d90 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 0
+--------------------EXIT FOR LOOP-----------------
+(Papakia:1)/100/109ms - Switching Process In
+--------------------IN FOR LOOP 9-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0d90 -> 6666666
+head: 0x5606867af2a0 current:0x5606867b0cd0 -> 6666666
+--------------------EXIT FOR LOOP-----------------
+(Helwnitses:8)/100/119ms - Switching Process In
+--------------------IN FOR LOOP 9-----------------
+head: 0x5606867af2a0 current:0x5606867b1210 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0d90 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 6666666
+--------------------EXIT FOR LOOP-----------------
+(Psarakia:7)/100/129ms - Switching Process In
+--------------------IN FOR LOOP 9-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 8888888
+head: 0x5606867af2a0 current:0x5606867b1150 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0d90 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 6666666
+--------------------EXIT FOR LOOP-----------------
+(Tavrakia:6)/100/139ms - Switching Process In
+--------------------IN FOR LOOP 9-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 8888888
+head: 0x5606867af2a0 current:0x5606867b1090 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0d90 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 6666666
+--------------------EXIT FOR LOOP-----------------
+(Skylakia:5)/100/149ms - Switching Process In
+--------------------IN FOR LOOP 9-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 8888888
+head: 0x5606867af2a0 current:0x5606867b0fd0 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0d90 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 6666666
+--------------------EXIT FOR LOOP-----------------
+(Gatakia:4)/100/159ms - Switching Process In
+--------------------IN FOR LOOP 9-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 8888888
+head: 0x5606867af2a0 current:0x5606867b0f10 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0d90 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 6666666
+--------------------EXIT FOR LOOP-----------------
+(Tigrakia:3)/100/169ms - Switching Process In
+--------------------IN FOR LOOP 9-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 8888888
+head: 0x5606867af2a0 current:0x5606867b0e50 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0d90 -> 6666666
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 6666666
+--------------------EXIT FOR LOOP-----------------
+(Vatraxakia:2)/100/179ms - Switching Process In
+--------------------IN FOR LOOP 9-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 8888888
+head: 0x5606867af2a0 current:0x5606867b0d90 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 6666666
+--------------------EXIT FOR LOOP-----------------
+(Papakia:1)/100/189ms - Switching Process In
+--------------------IN FOR LOOP 9-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0d90 -> 8888888
+head: 0x5606867af2a0 current:0x5606867b0cd0 -> 8888888
+--------------------EXIT FOR LOOP-----------------
+(Helwnitses:8)/100/199ms - Switching Process In
+--------------------IN FOR LOOP 9-----------------
+head: 0x5606867af2a0 current:0x5606867b1210 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0d90 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 8888888
+--------------------EXIT FOR LOOP-----------------
+(Psarakia:7)/100/209ms - Switching Process In
+--------------------IN FOR LOOP 9-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9629629
+head: 0x5606867af2a0 current:0x5606867b1150 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0d90 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 8888888
+--------------------EXIT FOR LOOP-----------------
+(Tavrakia:6)/100/219ms - Switching Process In
+--------------------IN FOR LOOP 9-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9629629
+head: 0x5606867af2a0 current:0x5606867b1090 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0d90 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 8888888
+--------------------EXIT FOR LOOP-----------------
+(Skylakia:5)/100/229ms - Switching Process In
+--------------------IN FOR LOOP 9-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9629629
+head: 0x5606867af2a0 current:0x5606867b0fd0 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0d90 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 8888888
+--------------------EXIT FOR LOOP-----------------
+(Gatakia:4)/100/239ms - Switching Process In
+--------------------IN FOR LOOP 9-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9629629
+head: 0x5606867af2a0 current:0x5606867b0f10 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0d90 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 8888888
+--------------------EXIT FOR LOOP-----------------
+(Tigrakia:3)/100/249ms - Switching Process In
+--------------------IN FOR LOOP 9-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 9629629
+head: 0x5606867af2a0 current:0x5606867b0e50 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0d90 -> 8888888
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 8888888
+--------------------EXIT FOR LOOP-----------------
+(Vatraxakia:2)/100/259ms - Switching Process In
+--------------------IN FOR LOOP 9-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9629629
+head: 0x5606867af2a0 current:0x5606867b0d90 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 8888888
+--------------------EXIT FOR LOOP-----------------
+(Papakia:1)/100/269ms - Switching Process In
+--------------------IN FOR LOOP 9-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0d90 -> 9629629
+head: 0x5606867af2a0 current:0x5606867b0cd0 -> 9629629
+--------------------EXIT FOR LOOP-----------------
+(Helwnitses:8)/100/279ms - Switching Process In
+--------------------IN FOR LOOP 9-----------------
+head: 0x5606867af2a0 current:0x5606867b1210 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0d90 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9629629
+--------------------EXIT FOR LOOP-----------------
+(Psarakia:7)/100/289ms - Switching Process In
+--------------------IN FOR LOOP 9-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9876543
+head: 0x5606867af2a0 current:0x5606867b1150 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0d90 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9629629
+--------------------EXIT FOR LOOP-----------------
+(Tavrakia:6)/100/299ms - Switching Process In
+--------------------IN FOR LOOP 9-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9876543
+head: 0x5606867af2a0 current:0x5606867b1090 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0d90 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9629629
+--------------------EXIT FOR LOOP-----------------
+(Skylakia:5)/100/309ms - Switching Process In
+--------------------IN FOR LOOP 9-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9876543
+head: 0x5606867af2a0 current:0x5606867b0fd0 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0d90 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9629629
+--------------------EXIT FOR LOOP-----------------
+(Gatakia:4)/100/319ms - Switching Process In
+--------------------IN FOR LOOP 9-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9876543
+head: 0x5606867af2a0 current:0x5606867b0f10 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0d90 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9629629
+--------------------EXIT FOR LOOP-----------------
+(Tigrakia:3)/100/329ms - Switching Process In
+--------------------IN FOR LOOP 9-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 9876543
+head: 0x5606867af2a0 current:0x5606867b0e50 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b0d90 -> 9629629
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9629629
+--------------------EXIT FOR LOOP-----------------
+(Vatraxakia:2)/100/339ms - Switching Process In
+###-Process: (Vatraxakia:2) is going down-###
+--------------------IN FOR LOOP 8-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9629629
+--------------------EXIT FOR LOOP-----------------
+(Papakia:1)/100/340ms - Switching Process In
+--------------------IN FOR LOOP 8-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9876543
+head: 0x5606867af2a0 current:0x5606867b0cd0 -> 9876543
+--------------------EXIT FOR LOOP-----------------
+(Helwnitses:8)/100/349ms - Switching Process In
+--------------------IN FOR LOOP 8-----------------
+head: 0x5606867af2a0 current:0x5606867b1210 -> 9958847
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9876543
+--------------------EXIT FOR LOOP-----------------
+(Psarakia:7)/100/359ms - Switching Process In
+--------------------IN FOR LOOP 8-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9958847
+head: 0x5606867af2a0 current:0x5606867b1150 -> 9958847
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9876543
+--------------------EXIT FOR LOOP-----------------
+(Tavrakia:6)/100/369ms - Switching Process In
+--------------------IN FOR LOOP 8-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9958847
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9958847
+head: 0x5606867af2a0 current:0x5606867b1090 -> 9958847
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9876543
+--------------------EXIT FOR LOOP-----------------
+(Skylakia:5)/100/379ms - Switching Process In
+--------------------IN FOR LOOP 8-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9958847
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9958847
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9958847
+head: 0x5606867af2a0 current:0x5606867b0fd0 -> 9958847
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9876543
+--------------------EXIT FOR LOOP-----------------
+(Gatakia:4)/100/389ms - Switching Process In
+	(Gatakia:4)/100/395ms - Going to Sleep
+--------------------IN FOR LOOP 7-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9958847
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9958847
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9958847
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9958847
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9876543
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9876543
+--------------------EXIT FOR LOOP-----------------
+(Tigrakia:3)/100/396ms - Switching Process In
+--------------------IN FOR LOOP 7-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9958847
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9958847
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9958847
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9958847
+head: 0x5606867af2a0 current:0x5606867b0e50 -> 9958847
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9876543
+--------------------EXIT FOR LOOP-----------------
+(Papakia:1)/100/399ms - Switching Process In
+--------------------IN FOR LOOP 7-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9958847
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9958847
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9958847
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9958847
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9958847
+head: 0x5606867af2a0 current:0x5606867b0cd0 -> 9958847
+--------------------EXIT FOR LOOP-----------------
+(Helwnitses:8)/100/409ms - Switching Process In
+--------------------IN FOR LOOP 7-----------------
+head: 0x5606867af2a0 current:0x5606867b1210 -> 9986282
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9958847
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9958847
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9958847
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9958847
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9958847
+--------------------EXIT FOR LOOP-----------------
+(Psarakia:7)/100/419ms - Switching Process In
+--------------------IN FOR LOOP 7-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9986282
+head: 0x5606867af2a0 current:0x5606867b1150 -> 9986282
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9958847
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9958847
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9958847
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9958847
+--------------------EXIT FOR LOOP-----------------
+(Tavrakia:6)/100/429ms - Switching Process In
+--------------------IN FOR LOOP 7-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9986282
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9986282
+head: 0x5606867af2a0 current:0x5606867b1090 -> 9986282
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9958847
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9958847
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9958847
+--------------------EXIT FOR LOOP-----------------
+(Skylakia:5)/100/439ms - Switching Process In
+--------------------IN FOR LOOP 7-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9986282
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9986282
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9986282
+head: 0x5606867af2a0 current:0x5606867b0fd0 -> 9986282
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9958847
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9958847
+--------------------EXIT FOR LOOP-----------------
+(Tigrakia:3)/100/449ms - Switching Process In
+--------------------IN FOR LOOP 7-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9986282
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9986282
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9986282
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9986282
+head: 0x5606867af2a0 current:0x5606867b0e50 -> 9986282
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9958847
+--------------------EXIT FOR LOOP-----------------
+(Papakia:1)/100/459ms - Switching Process In
+--------------------IN FOR LOOP 7-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9986282
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9986282
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9986282
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9986282
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9986282
+head: 0x5606867af2a0 current:0x5606867b0cd0 -> 9986282
+--------------------EXIT FOR LOOP-----------------
+(Helwnitses:8)/100/469ms - Switching Process In
+--------------------IN FOR LOOP 7-----------------
+head: 0x5606867af2a0 current:0x5606867b1210 -> 9995427
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9986282
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9986282
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9986282
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9986282
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9986282
+--------------------EXIT FOR LOOP-----------------
+(Psarakia:7)/100/479ms - Switching Process In
+--------------------IN FOR LOOP 7-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9995427
+head: 0x5606867af2a0 current:0x5606867b1150 -> 9995427
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9986282
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9986282
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9986282
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9986282
+--------------------EXIT FOR LOOP-----------------
+(Tavrakia:6)/100/489ms - Switching Process In
+--------------------IN FOR LOOP 7-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9995427
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9995427
+head: 0x5606867af2a0 current:0x5606867b1090 -> 9995427
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9986282
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9986282
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9986282
+--------------------EXIT FOR LOOP-----------------
+(Skylakia:5)/100/499ms - Switching Process In
+--------------------IN FOR LOOP 7-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9995427
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9995427
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9995427
+head: 0x5606867af2a0 current:0x5606867b0fd0 -> 9995427
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9986282
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9986282
+--------------------EXIT FOR LOOP-----------------
+(Tigrakia:3)/100/509ms - Switching Process In
+--------------------IN FOR LOOP 7-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9995427
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9995427
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9995427
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9995427
+head: 0x5606867af2a0 current:0x5606867b0e50 -> 9995427
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9986282
+--------------------EXIT FOR LOOP-----------------
+(Papakia:1)/100/519ms - Switching Process In
+--------------------IN FOR LOOP 7-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9995427
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9995427
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9995427
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9995427
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9995427
+head: 0x5606867af2a0 current:0x5606867b0cd0 -> 9995427
+--------------------EXIT FOR LOOP-----------------
+(Helwnitses:8)/100/529ms - Switching Process In
+--------------------IN FOR LOOP 7-----------------
+head: 0x5606867af2a0 current:0x5606867b1210 -> 9998475
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9995427
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9995427
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9995427
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9995427
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9995427
+--------------------EXIT FOR LOOP-----------------
+(Psarakia:7)/100/539ms - Switching Process In
+	(Psarakia:7)/100/546ms - Going to Sleep
+--------------------IN FOR LOOP 6-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9998475
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9995427
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9995427
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9995427
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9995427
+--------------------EXIT FOR LOOP-----------------
+(Tavrakia:6)/100/547ms - Switching Process In
+--------------------IN FOR LOOP 6-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9998475
+head: 0x5606867af2a0 current:0x5606867b1090 -> 9998475
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9995427
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9995427
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9995427
+--------------------EXIT FOR LOOP-----------------
+(Skylakia:5)/100/549ms - Switching Process In
+--------------------IN FOR LOOP 6-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9998475
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9998475
+head: 0x5606867af2a0 current:0x5606867b0fd0 -> 9998475
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9995427
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9995427
+--------------------EXIT FOR LOOP-----------------
+(Tigrakia:3)/100/559ms - Switching Process In
+--------------------IN FOR LOOP 6-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9998475
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9998475
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9998475
+head: 0x5606867af2a0 current:0x5606867b0e50 -> 9998475
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9995427
+--------------------EXIT FOR LOOP-----------------
+(Papakia:1)/100/569ms - Switching Process In
+--------------------IN FOR LOOP 6-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9998475
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9998475
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9998475
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9998475
+head: 0x5606867af2a0 current:0x5606867b0cd0 -> 9998475
+--------------------EXIT FOR LOOP-----------------
+(Helwnitses:8)/100/579ms - Switching Process In
+--------------------IN FOR LOOP 6-----------------
+head: 0x5606867af2a0 current:0x5606867b1210 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9998475
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9998475
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9998475
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9998475
+--------------------EXIT FOR LOOP-----------------
+(Tavrakia:6)/100/589ms - Switching Process In
+--------------------IN FOR LOOP 6-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999491
+head: 0x5606867af2a0 current:0x5606867b1090 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9998475
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9998475
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9998475
+--------------------EXIT FOR LOOP-----------------
+(Skylakia:5)/100/599ms - Switching Process In
+--------------------IN FOR LOOP 6-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9999491
+head: 0x5606867af2a0 current:0x5606867b0fd0 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9998475
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9998475
+--------------------EXIT FOR LOOP-----------------
+(Tigrakia:3)/100/609ms - Switching Process In
+--------------------IN FOR LOOP 6-----------------
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999491
+head: 0x5606867af2a0 current:0x5606867b0e50 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9998475
+--------------------EXIT FOR LOOP-----------------
+(Papakia:1)/100/619ms - Switching Process In
+###-An Interrupt has fired!-###
+	(Gatakia:4)/100/621ms - Waking Up from Sleep
+	(Psarakia:7)/100/621ms - Waking Up from Sleep
+--------------------IN FOR LOOP 8-----------------
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 1110603
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 1097393
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999491
+head: 0x5606867af2a0 current:0x5606867b0cd0 -> 3332825
+--------------------EXIT FOR LOOP-----------------
+(Gatakia:4)/100/622ms - Switching Process In
+	(Gatakia:4)/100/626ms - Going to Sleep
+--------------------IN FOR LOOP 7-----------------
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 1110603
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 3332825
+--------------------EXIT FOR LOOP-----------------
+(Psarakia:7)/100/627ms - Switching Process In
+--------------------IN FOR LOOP 7-----------------
+head: 0x5606867af2a0 current:0x5606867b1150 -> 7036867
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 3332825
+--------------------EXIT FOR LOOP-----------------
+(Papakia:1)/100/629ms - Switching Process In
+--------------------IN FOR LOOP 7-----------------
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 7036867
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999491
+head: 0x5606867af2a0 current:0x5606867b0cd0 -> 7777608
+--------------------EXIT FOR LOOP-----------------
+(Psarakia:7)/100/639ms - Switching Process In
+--------------------IN FOR LOOP 7-----------------
+head: 0x5606867af2a0 current:0x5606867b1150 -> 9012289
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 7777608
+--------------------EXIT FOR LOOP-----------------
+(Papakia:1)/100/649ms - Switching Process In
+--------------------IN FOR LOOP 7-----------------
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9012289
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999491
+head: 0x5606867af2a0 current:0x5606867b0cd0 -> 9259202
+--------------------EXIT FOR LOOP-----------------
+(Psarakia:7)/100/659ms - Switching Process In
+--------------------IN FOR LOOP 7-----------------
+head: 0x5606867af2a0 current:0x5606867b1150 -> 9670763
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9259202
+--------------------EXIT FOR LOOP-----------------
+(Papakia:1)/100/669ms - Switching Process In
+--------------------IN FOR LOOP 7-----------------
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9670763
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999491
+head: 0x5606867af2a0 current:0x5606867b0cd0 -> 9753067
+--------------------EXIT FOR LOOP-----------------
+(Psarakia:7)/100/679ms - Switching Process In
+--------------------IN FOR LOOP 7-----------------
+head: 0x5606867af2a0 current:0x5606867b1150 -> 9890254
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9753067
+--------------------EXIT FOR LOOP-----------------
+(Papakia:1)/100/689ms - Switching Process In
+--------------------IN FOR LOOP 7-----------------
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9890254
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999491
+head: 0x5606867af2a0 current:0x5606867b0cd0 -> 9917689
+--------------------EXIT FOR LOOP-----------------
+(Psarakia:7)/100/699ms - Switching Process In
+--------------------IN FOR LOOP 7-----------------
+head: 0x5606867af2a0 current:0x5606867b1150 -> 9963418
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9917689
+--------------------EXIT FOR LOOP-----------------
+(Papakia:1)/100/709ms - Switching Process In
+--------------------IN FOR LOOP 7-----------------
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9963418
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999491
+head: 0x5606867af2a0 current:0x5606867b0cd0 -> 9972563
+--------------------EXIT FOR LOOP-----------------
+(Psarakia:7)/100/719ms - Switching Process In
+--------------------IN FOR LOOP 7-----------------
+head: 0x5606867af2a0 current:0x5606867b1150 -> 9987806
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9972563
+--------------------EXIT FOR LOOP-----------------
+(Papakia:1)/100/729ms - Switching Process In
+--------------------IN FOR LOOP 7-----------------
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9987806
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999491
+head: 0x5606867af2a0 current:0x5606867b0cd0 -> 9990854
+--------------------EXIT FOR LOOP-----------------
+(Psarakia:7)/100/739ms - Switching Process In
+--------------------IN FOR LOOP 7-----------------
+head: 0x5606867af2a0 current:0x5606867b1150 -> 9995935
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9990854
+--------------------EXIT FOR LOOP-----------------
+(Papakia:1)/100/749ms - Switching Process In
+--------------------IN FOR LOOP 7-----------------
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9995935
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999491
+head: 0x5606867af2a0 current:0x5606867b0cd0 -> 9996951
+--------------------EXIT FOR LOOP-----------------
+(Psarakia:7)/100/759ms - Switching Process In
+--------------------IN FOR LOOP 7-----------------
+head: 0x5606867af2a0 current:0x5606867b1150 -> 9998645
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9996951
+--------------------EXIT FOR LOOP-----------------
+(Papakia:1)/100/769ms - Switching Process In
+--------------------IN FOR LOOP 7-----------------
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9998645
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999491
+head: 0x5606867af2a0 current:0x5606867b0cd0 -> 9998983
+--------------------EXIT FOR LOOP-----------------
+(Psarakia:7)/100/779ms - Switching Process In
+--------------------IN FOR LOOP 7-----------------
+head: 0x5606867af2a0 current:0x5606867b1150 -> 9999548
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 9998983
+--------------------EXIT FOR LOOP-----------------
+(Papakia:1)/100/789ms - Switching Process In
+	(Papakia:1)/100/797ms - Going to Sleep
+--------------------IN FOR LOOP 6-----------------
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9999548
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999491
+--------------------EXIT FOR LOOP-----------------
+(Helwnitses:8)/100/798ms - Switching Process In
+--------------------IN FOR LOOP 6-----------------
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9999548
+head: 0x5606867af2a0 current:0x5606867b1210 -> 9999830
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999491
+--------------------EXIT FOR LOOP-----------------
+(Tavrakia:6)/100/799ms - Switching Process In
+--------------------IN FOR LOOP 6-----------------
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9999548
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999830
+head: 0x5606867af2a0 current:0x5606867b1090 -> 9999830
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999491
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999491
+--------------------EXIT FOR LOOP-----------------
+(Skylakia:5)/100/809ms - Switching Process In
+--------------------IN FOR LOOP 6-----------------
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9999548
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999830
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9999830
+head: 0x5606867af2a0 current:0x5606867b0fd0 -> 9999830
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999491
+--------------------EXIT FOR LOOP-----------------
+(Tigrakia:3)/100/819ms - Switching Process In
+--------------------IN FOR LOOP 6-----------------
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9999548
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999830
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9999830
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999830
+head: 0x5606867af2a0 current:0x5606867b0e50 -> 9999830
+--------------------EXIT FOR LOOP-----------------
+(Psarakia:7)/100/829ms - Switching Process In
+--------------------IN FOR LOOP 6-----------------
+head: 0x5606867af2a0 current:0x5606867b1150 -> 9999849
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999830
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9999830
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999830
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999830
+--------------------EXIT FOR LOOP-----------------
+(Helwnitses:8)/100/839ms - Switching Process In
+--------------------IN FOR LOOP 6-----------------
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9999849
+head: 0x5606867af2a0 current:0x5606867b1210 -> 9999943
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 9999830
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999830
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999830
+--------------------EXIT FOR LOOP-----------------
+(Tavrakia:6)/100/849ms - Switching Process In
+	(Tavrakia:6)/100/855ms - Going to Sleep
+--------------------IN FOR LOOP 5-----------------
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9999849
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999943
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999830
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999830
+--------------------EXIT FOR LOOP-----------------
+(Skylakia:5)/100/856ms - Switching Process In
+--------------------IN FOR LOOP 5-----------------
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9999849
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999943
+head: 0x5606867af2a0 current:0x5606867b0fd0 -> 9999943
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999830
+--------------------EXIT FOR LOOP-----------------
+(Tigrakia:3)/100/859ms - Switching Process In
+--------------------IN FOR LOOP 5-----------------
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9999849
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999943
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999943
+head: 0x5606867af2a0 current:0x5606867b0e50 -> 9999943
+--------------------EXIT FOR LOOP-----------------
+(Psarakia:7)/100/869ms - Switching Process In
+--------------------IN FOR LOOP 5-----------------
+head: 0x5606867af2a0 current:0x5606867b1150 -> 9999949
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999943
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999943
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999943
+--------------------EXIT FOR LOOP-----------------
+(Helwnitses:8)/100/879ms - Switching Process In
+--------------------IN FOR LOOP 5-----------------
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9999949
+head: 0x5606867af2a0 current:0x5606867b1210 -> 9999981
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999943
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999943
+--------------------EXIT FOR LOOP-----------------
+(Skylakia:5)/100/889ms - Switching Process In
+--------------------IN FOR LOOP 5-----------------
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9999949
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999981
+head: 0x5606867af2a0 current:0x5606867b0fd0 -> 9999981
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999943
+--------------------EXIT FOR LOOP-----------------
+(Tigrakia:3)/100/899ms - Switching Process In
+--------------------IN FOR LOOP 5-----------------
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9999949
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999981
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999981
+head: 0x5606867af2a0 current:0x5606867b0e50 -> 9999981
+--------------------EXIT FOR LOOP-----------------
+(Psarakia:7)/100/909ms - Switching Process In
+--------------------IN FOR LOOP 5-----------------
+head: 0x5606867af2a0 current:0x5606867b1150 -> 9999983
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999981
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999981
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999981
+--------------------EXIT FOR LOOP-----------------
+(Helwnitses:8)/100/919ms - Switching Process In
+--------------------IN FOR LOOP 5-----------------
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9999983
+head: 0x5606867af2a0 current:0x5606867b1210 -> 9999993
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999981
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999981
+--------------------EXIT FOR LOOP-----------------
+(Skylakia:5)/100/929ms - Switching Process In
+--------------------IN FOR LOOP 5-----------------
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9999983
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999993
+head: 0x5606867af2a0 current:0x5606867b0fd0 -> 9999993
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999981
+--------------------EXIT FOR LOOP-----------------
+(Tigrakia:3)/100/939ms - Switching Process In
+--------------------IN FOR LOOP 5-----------------
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9999983
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999993
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999993
+head: 0x5606867af2a0 current:0x5606867b0e50 -> 9999993
+--------------------EXIT FOR LOOP-----------------
+(Psarakia:7)/100/949ms - Switching Process In
+--------------------IN FOR LOOP 5-----------------
+head: 0x5606867af2a0 current:0x5606867b1150 -> 9999994
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999993
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999993
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999993
+--------------------EXIT FOR LOOP-----------------
+(Helwnitses:8)/100/959ms - Switching Process In
+--------------------IN FOR LOOP 5-----------------
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9999994
+head: 0x5606867af2a0 current:0x5606867b1210 -> 9999997
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999993
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999993
+--------------------EXIT FOR LOOP-----------------
+(Skylakia:5)/100/969ms - Switching Process In
+--------------------IN FOR LOOP 5-----------------
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9999994
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999997
+head: 0x5606867af2a0 current:0x5606867b0fd0 -> 9999997
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999993
+--------------------EXIT FOR LOOP-----------------
+(Tigrakia:3)/100/979ms - Switching Process In
+--------------------IN FOR LOOP 5-----------------
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9999994
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999997
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999997
+head: 0x5606867af2a0 current:0x5606867b0e50 -> 9999997
+--------------------EXIT FOR LOOP-----------------
+(Psarakia:7)/100/989ms - Switching Process In
+--------------------IN FOR LOOP 5-----------------
+head: 0x5606867af2a0 current:0x5606867b1150 -> 9999998
+head: 0x5606867af2a0 temp:0x5606867b1210 -> 9999997
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999997
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999997
+--------------------EXIT FOR LOOP-----------------
+(Helwnitses:8)/100/999ms - Switching Process In
+###-Sending Kill Message-###
+###-Process: (Helwnitses:8) is going down-###
+--------------------IN FOR LOOP 4-----------------
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9999998
+head: 0x5606867af2a0 temp:0x5606867b0fd0 -> 9999997
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999997
+--------------------EXIT FOR LOOP-----------------
+(Skylakia:5)/100/1000ms - Switching Process In
+###-Process: (Skylakia:5) is going down-###
+--------------------IN FOR LOOP 3-----------------
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9999998
+head: 0x5606867af2a0 temp:0x5606867b0e50 -> 9999997
+--------------------EXIT FOR LOOP-----------------
+(Tigrakia:3)/100/1000ms - Switching Process In
+###-Process: (Tigrakia:3) is going down-###
+--------------------IN FOR LOOP 2-----------------
+head: 0x5606867af2a0 temp:0x5606867b1150 -> 9999998
+--------------------EXIT FOR LOOP-----------------
+(Psarakia:7)/100/1000ms - Switching Process In
+###-Process: (Psarakia:7) is going down-###
+(Init:0)/0/1000ms - Switching Process In
+(Init:0)/0/1009ms - Switching Process In
+(Init:0)/0/1019ms - Switching Process In
+(Init:0)/0/1029ms - Switching Process In
+(Init:0)/0/1039ms - Switching Process In
+(Init:0)/0/1049ms - Switching Process In
+(Init:0)/0/1059ms - Switching Process In
+(Init:0)/0/1069ms - Switching Process In
+(Init:0)/0/1079ms - Switching Process In
+(Init:0)/0/1089ms - Switching Process In
+(Init:0)/0/1099ms - Switching Process In
+(Init:0)/0/1109ms - Switching Process In
+(Init:0)/0/1119ms - Switching Process In
+(Init:0)/0/1129ms - Switching Process In
+(Init:0)/0/1139ms - Switching Process In
+(Init:0)/0/1149ms - Switching Process In
+(Init:0)/0/1159ms - Switching Process In
+(Init:0)/0/1169ms - Switching Process In
+(Init:0)/0/1179ms - Switching Process In
+(Init:0)/0/1189ms - Switching Process In
+(Init:0)/0/1199ms - Switching Process In
+(Init:0)/0/1209ms - Switching Process In
+(Init:0)/0/1219ms - Switching Process In
+(Init:0)/0/1229ms - Switching Process In
+(Init:0)/0/1239ms - Switching Process In
+(Init:0)/0/1249ms - Switching Process In
+(Init:0)/0/1259ms - Switching Process In
+(Init:0)/0/1269ms - Switching Process In
+(Init:0)/0/1279ms - Switching Process In
+(Init:0)/0/1289ms - Switching Process In
+(Init:0)/0/1299ms - Switching Process In
+(Init:0)/0/1309ms - Switching Process In
+(Init:0)/0/1319ms - Switching Process In
+(Init:0)/0/1329ms - Switching Process In
+(Init:0)/0/1339ms - Switching Process In
+(Init:0)/0/1349ms - Switching Process In
+(Init:0)/0/1359ms - Switching Process In
+(Init:0)/0/1369ms - Switching Process In
+(Init:0)/0/1379ms - Switching Process In
+(Init:0)/0/1389ms - Switching Process In
+(Init:0)/0/1399ms - Switching Process In
+(Init:0)/0/1409ms - Switching Process In
+(Init:0)/0/1419ms - Switching Process In
+(Init:0)/0/1429ms - Switching Process In
+(Init:0)/0/1439ms - Switching Process In
+(Init:0)/0/1449ms - Switching Process In
+(Init:0)/0/1459ms - Switching Process In
+(Init:0)/0/1469ms - Switching Process In
+(Init:0)/0/1479ms - Switching Process In
+(Init:0)/0/1489ms - Switching Process In
+(Init:0)/0/1499ms - Switching Process In
+###-An Interrupt has fired!-###
+	(Gatakia:4)/100/1507ms - Waking Up from Sleep
+	(Papakia:1)/100/1507ms - Waking Up from Sleep
+	(Tavrakia:6)/100/1507ms - Waking Up from Sleep
+--------------------IN FOR LOOP 4-----------------
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 1111092
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 1110998
+head: 0x5606867af2a0 temp:0x5606867b0f10 -> 121932
+--------------------EXIT FOR LOOP-----------------
+(Gatakia:4)/100/1508ms - Switching Process In
+###-Process: (Gatakia:4) is going down-###
+--------------------IN FOR LOOP 3-----------------
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 1111092
+head: 0x5606867af2a0 temp:0x5606867b0cd0 -> 1110998
+--------------------EXIT FOR LOOP-----------------
+(Papakia:1)/100/1508ms - Switching Process In
+###-Process: (Papakia:1) is going down-###
+--------------------IN FOR LOOP 2-----------------
+head: 0x5606867af2a0 temp:0x5606867b1090 -> 1111092
+--------------------EXIT FOR LOOP-----------------
+(Tavrakia:6)/100/1508ms - Switching Process In
+###-Process: (Tavrakia:6) is going down-###
+(Init:0)/0/1508ms - Switching Process In
+###-Process: (Init:0) is going down-###
+###-Shutting Down CPU-###

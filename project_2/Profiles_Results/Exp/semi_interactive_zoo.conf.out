@@ -1,0 +1,1576 @@
+###-Starting CPU-###
+(Init:0)/0/0ms - Switching Process In
+(Init:0)/0/9ms - Switching Process In
+(Init:0)/0/19ms - Switching Process In
+(Init:0)/0/29ms - Switching Process In
+(Init:0)/0/39ms - Switching Process In
+###-Process: (Papakia:1) has been created-###
+temp_exp_burst: 26666666.666667 time: 40000000 temp_last_burst: 40000000.000000 current->exp_burst: 0.000000 
+--------------------IN FOR LOOP 2-----------------
+head: 0x556de12192a0 temp:0x556de121acd0 -> 0.000000
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121acd0 -> 40000000
+(Papakia:1)/100/40ms - Switching Process In
+temp_exp_burst: 6666666.666667 time: 50000000 temp_last_burst: 10000000.000000 current->exp_burst: 0.000000 
+--------------------IN FOR LOOP 2-----------------
+head: 0x556de12192a0 current:0x556de121acd0 -> 6666666.666667
+--------------------EXIT FOR LOOP-----------------
+###-Process: (Vatraxakia:2) has been created-###
+temp_exp_burst: 6666666.666667 time: 50000000 temp_last_burst: 10000000.000000 current->exp_burst: 0.000000 
+--------------------IN FOR LOOP 3-----------------
+head: 0x556de12192a0 temp:0x556de121ad90 -> 0.000000
+head: 0x556de12192a0 current:0x556de121acd0 -> 6666666.666667
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121ad90 -> 50000000
+(Vatraxakia:2)/100/50ms - Switching Process In
+temp_exp_burst: 6666666.666667 time: 60000000 temp_last_burst: 10000000.000000 current->exp_burst: 0.000000 
+--------------------IN FOR LOOP 3-----------------
+head: 0x556de12192a0 current:0x556de121ad90 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121acd0 -> 6666666.666667
+--------------------EXIT FOR LOOP-----------------
+temp_exp_burst: 13333333.333333 time: 70000000 temp_last_burst: 20000000.000000 current->exp_burst: 0.000000 
+--------------------IN FOR LOOP 3-----------------
+head: 0x556de12192a0 current:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 6666666.666667
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121acd0 -> 70000000
+(Papakia:1)/100/69ms - Switching Process In
+###-Process: (Tigrakia:3) has been created-###
+temp_exp_burst: 2222222.222222 time: 70000000 temp_last_burst: 0.000000 current->exp_burst: 6666666.666667 
+--------------------IN FOR LOOP 4-----------------
+head: 0x556de12192a0 temp:0x556de121ae50 -> 0.000000
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 current:0x556de121acd0 -> 2222222.222222
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121ae50 -> 70000000
+(Tigrakia:3)/100/70ms - Switching Process In
+temp_exp_burst: 6666666.666667 time: 80000000 temp_last_burst: 10000000.000000 current->exp_burst: 0.000000 
+--------------------IN FOR LOOP 4-----------------
+head: 0x556de12192a0 current:0x556de121ae50 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 2222222.222222
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121acd0 -> 80000000
+(Papakia:1)/100/79ms - Switching Process In
+###-Process: (Gatakia:4) has been created-###
+temp_exp_burst: 740740.740741 time: 80000000 temp_last_burst: 0.000000 current->exp_burst: 2222222.222222 
+--------------------IN FOR LOOP 5-----------------
+head: 0x556de12192a0 temp:0x556de121af10 -> 0.000000
+head: 0x556de12192a0 temp:0x556de121ae50 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 current:0x556de121acd0 -> 740740.740741
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121af10 -> 80000000
+(Gatakia:4)/100/80ms - Switching Process In
+temp_exp_burst: 6666666.666667 time: 90000000 temp_last_burst: 10000000.000000 current->exp_burst: 0.000000 
+--------------------IN FOR LOOP 5-----------------
+head: 0x556de12192a0 current:0x556de121af10 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121ae50 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 740740.740741
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121acd0 -> 90000000
+(Papakia:1)/100/89ms - Switching Process In
+###-Process: (Arkoudakia:5) has been created-###
+temp_exp_burst: 246913.580247 time: 90000000 temp_last_burst: 0.000000 current->exp_burst: 740740.740741 
+--------------------IN FOR LOOP 6-----------------
+head: 0x556de12192a0 temp:0x556de121afd0 -> 0.000000
+head: 0x556de12192a0 temp:0x556de121af10 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121ae50 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 current:0x556de121acd0 -> 246913.580247
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121afd0 -> 90000000
+(Arkoudakia:5)/100/90ms - Switching Process In
+temp_exp_burst: 6666666.666667 time: 100000000 temp_last_burst: 10000000.000000 current->exp_burst: 0.000000 
+--------------------IN FOR LOOP 6-----------------
+head: 0x556de12192a0 current:0x556de121afd0 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121af10 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121ae50 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 246913.580247
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121acd0 -> 100000000
+(Papakia:1)/100/99ms - Switching Process In
+###-Process: (Saligkarakia:6) has been created-###
+temp_exp_burst: 82304.526749 time: 100000000 temp_last_burst: 0.000000 current->exp_burst: 246913.580247 
+--------------------IN FOR LOOP 7-----------------
+head: 0x556de12192a0 temp:0x556de121b090 -> 0.000000
+head: 0x556de12192a0 temp:0x556de121afd0 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121af10 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121ae50 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 current:0x556de121acd0 -> 82304.526749
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b090 -> 100000000
+(Saligkarakia:6)/100/100ms - Switching Process In
+temp_exp_burst: 6666666.666667 time: 110000000 temp_last_burst: 10000000.000000 current->exp_burst: 0.000000 
+--------------------IN FOR LOOP 7-----------------
+head: 0x556de12192a0 current:0x556de121b090 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121afd0 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121af10 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121ae50 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 82304.526749
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121acd0 -> 110000000
+(Papakia:1)/100/109ms - Switching Process In
+temp_exp_burst: 6694101.508916 time: 120000000 temp_last_burst: 10000000.000000 current->exp_burst: 82304.526749 
+--------------------IN FOR LOOP 7-----------------
+head: 0x556de12192a0 temp:0x556de121b090 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121afd0 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121af10 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121ae50 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 current:0x556de121acd0 -> 6694101.508916
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b090 -> 120000000
+(Saligkarakia:6)/100/119ms - Switching Process In
+temp_exp_burst: 8888888.888889 time: 130000000 temp_last_burst: 10000000.000000 current->exp_burst: 6666666.666667 
+--------------------IN FOR LOOP 7-----------------
+head: 0x556de12192a0 current:0x556de121b090 -> 8888888.888889
+head: 0x556de12192a0 temp:0x556de121afd0 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121af10 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121ae50 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 6694101.508916
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121afd0 -> 130000000
+(Arkoudakia:5)/100/129ms - Switching Process In
+###-Process: (Arkoudakia:5):(Arkoudi_2:7) has been created-###
+temp_exp_burst: 2222222.222222 time: 130000000 temp_last_burst: 0.000000 current->exp_burst: 6666666.666667 
+--------------------IN FOR LOOP 8-----------------
+head: 0x556de12192a0 temp:0x556de121b150 -> 0.000000
+head: 0x556de12192a0 temp:0x556de121b090 -> 8888888.888889
+head: 0x556de12192a0 current:0x556de121afd0 -> 2222222.222222
+head: 0x556de12192a0 temp:0x556de121af10 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121ae50 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 6694101.508916
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b150 -> 130000000
+(Arkoudakia:5):(Arkoudi_2:7)/100/130ms - Switching Process In
+temp_exp_burst: 6666666.666667 time: 140000000 temp_last_burst: 10000000.000000 current->exp_burst: 0.000000 
+--------------------IN FOR LOOP 8-----------------
+head: 0x556de12192a0 current:0x556de121b150 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121b090 -> 8888888.888889
+head: 0x556de12192a0 temp:0x556de121afd0 -> 2222222.222222
+head: 0x556de12192a0 temp:0x556de121af10 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121ae50 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 6694101.508916
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121afd0 -> 140000000
+(Arkoudakia:5)/100/139ms - Switching Process In
+temp_exp_burst: 7407407.407407 time: 150000000 temp_last_burst: 10000000.000000 current->exp_burst: 2222222.222222 
+--------------------IN FOR LOOP 8-----------------
+head: 0x556de12192a0 temp:0x556de121b150 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121b090 -> 8888888.888889
+head: 0x556de12192a0 current:0x556de121afd0 -> 7407407.407407
+head: 0x556de12192a0 temp:0x556de121af10 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121ae50 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 6694101.508916
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b150 -> 150000000
+(Arkoudakia:5):(Arkoudi_2:7)/100/149ms - Switching Process In
+temp_exp_burst: 8888888.888889 time: 160000000 temp_last_burst: 10000000.000000 current->exp_burst: 6666666.666667 
+--------------------IN FOR LOOP 8-----------------
+head: 0x556de12192a0 current:0x556de121b150 -> 8888888.888889
+head: 0x556de12192a0 temp:0x556de121b090 -> 8888888.888889
+head: 0x556de12192a0 temp:0x556de121afd0 -> 7407407.407407
+head: 0x556de12192a0 temp:0x556de121af10 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121ae50 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 6694101.508916
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121af10 -> 160000000
+(Gatakia:4)/100/159ms - Switching Process In
+temp_exp_burst: 8888888.888889 time: 170000000 temp_last_burst: 10000000.000000 current->exp_burst: 6666666.666667 
+--------------------IN FOR LOOP 8-----------------
+head: 0x556de12192a0 temp:0x556de121b150 -> 8888888.888889
+head: 0x556de12192a0 temp:0x556de121b090 -> 8888888.888889
+head: 0x556de12192a0 temp:0x556de121afd0 -> 7407407.407407
+head: 0x556de12192a0 current:0x556de121af10 -> 8888888.888889
+head: 0x556de12192a0 temp:0x556de121ae50 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 6694101.508916
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121ae50 -> 170000000
+(Tigrakia:3)/100/169ms - Switching Process In
+temp_exp_burst: 8888888.888889 time: 180000000 temp_last_burst: 10000000.000000 current->exp_burst: 6666666.666667 
+--------------------IN FOR LOOP 8-----------------
+head: 0x556de12192a0 temp:0x556de121b150 -> 8888888.888889
+head: 0x556de12192a0 temp:0x556de121b090 -> 8888888.888889
+head: 0x556de12192a0 temp:0x556de121afd0 -> 7407407.407407
+head: 0x556de12192a0 temp:0x556de121af10 -> 8888888.888889
+head: 0x556de12192a0 current:0x556de121ae50 -> 8888888.888889
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 6694101.508916
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121acd0 -> 180000000
+(Papakia:1)/100/179ms - Switching Process In
+temp_exp_burst: 8898033.836305 time: 190000000 temp_last_burst: 10000000.000000 current->exp_burst: 6694101.508916 
+--------------------IN FOR LOOP 8-----------------
+head: 0x556de12192a0 temp:0x556de121b150 -> 8888888.888889
+head: 0x556de12192a0 temp:0x556de121b090 -> 8888888.888889
+head: 0x556de12192a0 temp:0x556de121afd0 -> 7407407.407407
+head: 0x556de12192a0 temp:0x556de121af10 -> 8888888.888889
+head: 0x556de12192a0 temp:0x556de121ae50 -> 8888888.888889
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 current:0x556de121acd0 -> 8898033.836305
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121afd0 -> 190000000
+(Arkoudakia:5)/100/189ms - Switching Process In
+temp_exp_burst: 9135802.469136 time: 200000000 temp_last_burst: 10000000.000000 current->exp_burst: 7407407.407407 
+--------------------IN FOR LOOP 8-----------------
+head: 0x556de12192a0 temp:0x556de121b150 -> 8888888.888889
+head: 0x556de12192a0 temp:0x556de121b090 -> 8888888.888889
+head: 0x556de12192a0 current:0x556de121afd0 -> 9135802.469136
+head: 0x556de12192a0 temp:0x556de121af10 -> 8888888.888889
+head: 0x556de12192a0 temp:0x556de121ae50 -> 8888888.888889
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 8898033.836305
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b150 -> 200000000
+(Arkoudakia:5):(Arkoudi_2:7)/100/199ms - Switching Process In
+temp_exp_burst: 9629629.629630 time: 210000000 temp_last_burst: 10000000.000000 current->exp_burst: 8888888.888889 
+--------------------IN FOR LOOP 8-----------------
+head: 0x556de12192a0 current:0x556de121b150 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121b090 -> 8888888.888889
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9135802.469136
+head: 0x556de12192a0 temp:0x556de121af10 -> 8888888.888889
+head: 0x556de12192a0 temp:0x556de121ae50 -> 8888888.888889
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 8898033.836305
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b090 -> 210000000
+(Saligkarakia:6)/100/209ms - Switching Process In
+temp_exp_burst: 9629629.629630 time: 220000000 temp_last_burst: 10000000.000000 current->exp_burst: 8888888.888889 
+--------------------IN FOR LOOP 8-----------------
+head: 0x556de12192a0 temp:0x556de121b150 -> 9629629.629630
+head: 0x556de12192a0 current:0x556de121b090 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9135802.469136
+head: 0x556de12192a0 temp:0x556de121af10 -> 8888888.888889
+head: 0x556de12192a0 temp:0x556de121ae50 -> 8888888.888889
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 8898033.836305
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121af10 -> 220000000
+(Gatakia:4)/100/219ms - Switching Process In
+temp_exp_burst: 9629629.629630 time: 230000000 temp_last_burst: 10000000.000000 current->exp_burst: 8888888.888889 
+--------------------IN FOR LOOP 8-----------------
+head: 0x556de12192a0 temp:0x556de121b150 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121b090 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9135802.469136
+head: 0x556de12192a0 current:0x556de121af10 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121ae50 -> 8888888.888889
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 8898033.836305
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121ae50 -> 230000000
+(Tigrakia:3)/100/229ms - Switching Process In
+temp_exp_burst: 9629629.629630 time: 240000000 temp_last_burst: 10000000.000000 current->exp_burst: 8888888.888889 
+--------------------IN FOR LOOP 8-----------------
+head: 0x556de12192a0 temp:0x556de121b150 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121b090 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9135802.469136
+head: 0x556de12192a0 temp:0x556de121af10 -> 9629629.629630
+head: 0x556de12192a0 current:0x556de121ae50 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 8898033.836305
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121acd0 -> 240000000
+(Papakia:1)/100/239ms - Switching Process In
+temp_exp_burst: 9632677.945435 time: 250000000 temp_last_burst: 10000000.000000 current->exp_burst: 8898033.836305 
+--------------------IN FOR LOOP 8-----------------
+head: 0x556de12192a0 temp:0x556de121b150 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121b090 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9135802.469136
+head: 0x556de12192a0 temp:0x556de121af10 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 current:0x556de121acd0 -> 9632677.945435
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121afd0 -> 250000000
+(Arkoudakia:5)/100/249ms - Switching Process In
+###-Process: (Arkoudakia:5):(Arkoudi_1:8) has been created-###
+temp_exp_burst: 3045267.489712 time: 250000000 temp_last_burst: 0.000000 current->exp_burst: 9135802.469136 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 0.000000
+head: 0x556de12192a0 temp:0x556de121b150 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121b090 -> 9629629.629630
+head: 0x556de12192a0 current:0x556de121afd0 -> 3045267.489712
+head: 0x556de12192a0 temp:0x556de121af10 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9632677.945435
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b240 -> 250000000
+(Arkoudakia:5):(Arkoudi_1:8)/100/250ms - Switching Process In
+temp_exp_burst: 6666666.666667 time: 260000000 temp_last_burst: 10000000.000000 current->exp_burst: 0.000000 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 current:0x556de121b240 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121b150 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121b090 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121afd0 -> 3045267.489712
+head: 0x556de12192a0 temp:0x556de121af10 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9632677.945435
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121afd0 -> 260000000
+(Arkoudakia:5)/100/259ms - Switching Process In
+temp_exp_burst: 7681755.829904 time: 270000000 temp_last_burst: 10000000.000000 current->exp_burst: 3045267.489712 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 6666666.666667
+head: 0x556de12192a0 temp:0x556de121b150 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121b090 -> 9629629.629630
+head: 0x556de12192a0 current:0x556de121afd0 -> 7681755.829904
+head: 0x556de12192a0 temp:0x556de121af10 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9632677.945435
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b240 -> 270000000
+(Arkoudakia:5):(Arkoudi_1:8)/100/269ms - Switching Process In
+temp_exp_burst: 8888888.888889 time: 280000000 temp_last_burst: 10000000.000000 current->exp_burst: 6666666.666667 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 current:0x556de121b240 -> 8888888.888889
+head: 0x556de12192a0 temp:0x556de121b150 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121b090 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121afd0 -> 7681755.829904
+head: 0x556de12192a0 temp:0x556de121af10 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9632677.945435
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121afd0 -> 280000000
+(Arkoudakia:5)/100/279ms - Switching Process In
+temp_exp_burst: 9227251.943301 time: 290000000 temp_last_burst: 10000000.000000 current->exp_burst: 7681755.829904 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 8888888.888889
+head: 0x556de12192a0 temp:0x556de121b150 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121b090 -> 9629629.629630
+head: 0x556de12192a0 current:0x556de121afd0 -> 9227251.943301
+head: 0x556de12192a0 temp:0x556de121af10 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9632677.945435
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b240 -> 290000000
+(Arkoudakia:5):(Arkoudi_1:8)/100/289ms - Switching Process In
+temp_exp_burst: 9629629.629630 time: 300000000 temp_last_burst: 10000000.000000 current->exp_burst: 8888888.888889 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 current:0x556de121b240 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121b150 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121b090 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9227251.943301
+head: 0x556de12192a0 temp:0x556de121af10 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9632677.945435
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121afd0 -> 300000000
+(Arkoudakia:5)/100/299ms - Switching Process In
+temp_exp_burst: 9742417.314434 time: 310000000 temp_last_burst: 10000000.000000 current->exp_burst: 9227251.943301 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121b150 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121b090 -> 9629629.629630
+head: 0x556de12192a0 current:0x556de121afd0 -> 9742417.314434
+head: 0x556de12192a0 temp:0x556de121af10 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9632677.945435
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b240 -> 310000000
+(Arkoudakia:5):(Arkoudi_1:8)/100/309ms - Switching Process In
+temp_exp_burst: 9876543.209877 time: 320000000 temp_last_burst: 10000000.000000 current->exp_burst: 9629629.629630 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 current:0x556de121b240 -> 9876543.209877
+head: 0x556de12192a0 temp:0x556de121b150 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121b090 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9742417.314434
+head: 0x556de12192a0 temp:0x556de121af10 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9632677.945435
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b150 -> 320000000
+(Arkoudakia:5):(Arkoudi_2:7)/100/319ms - Switching Process In
+temp_exp_burst: 9876543.209877 time: 330000000 temp_last_burst: 10000000.000000 current->exp_burst: 9629629.629630 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9876543.209877
+head: 0x556de12192a0 current:0x556de121b150 -> 9876543.209877
+head: 0x556de12192a0 temp:0x556de121b090 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9742417.314434
+head: 0x556de12192a0 temp:0x556de121af10 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9632677.945435
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b090 -> 330000000
+(Saligkarakia:6)/100/329ms - Switching Process In
+temp_exp_burst: 9876543.209877 time: 340000000 temp_last_burst: 10000000.000000 current->exp_burst: 9629629.629630 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9876543.209877
+head: 0x556de12192a0 temp:0x556de121b150 -> 9876543.209877
+head: 0x556de12192a0 current:0x556de121b090 -> 9876543.209877
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9742417.314434
+head: 0x556de12192a0 temp:0x556de121af10 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9632677.945435
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121af10 -> 340000000
+(Gatakia:4)/100/339ms - Switching Process In
+temp_exp_burst: 9876543.209877 time: 350000000 temp_last_burst: 10000000.000000 current->exp_burst: 9629629.629630 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9876543.209877
+head: 0x556de12192a0 temp:0x556de121b150 -> 9876543.209877
+head: 0x556de12192a0 temp:0x556de121b090 -> 9876543.209877
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9742417.314434
+head: 0x556de12192a0 current:0x556de121af10 -> 9876543.209877
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9629629.629630
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9632677.945435
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121ae50 -> 350000000
+(Tigrakia:3)/100/349ms - Switching Process In
+temp_exp_burst: 9876543.209877 time: 360000000 temp_last_burst: 10000000.000000 current->exp_burst: 9629629.629630 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9876543.209877
+head: 0x556de12192a0 temp:0x556de121b150 -> 9876543.209877
+head: 0x556de12192a0 temp:0x556de121b090 -> 9876543.209877
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9742417.314434
+head: 0x556de12192a0 temp:0x556de121af10 -> 9876543.209877
+head: 0x556de12192a0 current:0x556de121ae50 -> 9876543.209877
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9632677.945435
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121acd0 -> 360000000
+(Papakia:1)/100/359ms - Switching Process In
+temp_exp_burst: 9877559.315145 time: 370000000 temp_last_burst: 10000000.000000 current->exp_burst: 9632677.945435 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9876543.209877
+head: 0x556de12192a0 temp:0x556de121b150 -> 9876543.209877
+head: 0x556de12192a0 temp:0x556de121b090 -> 9876543.209877
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9742417.314434
+head: 0x556de12192a0 temp:0x556de121af10 -> 9876543.209877
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9876543.209877
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 current:0x556de121acd0 -> 9877559.315145
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121afd0 -> 370000000
+(Arkoudakia:5)/100/369ms - Switching Process In
+temp_exp_burst: 9914139.104811 time: 380000000 temp_last_burst: 10000000.000000 current->exp_burst: 9742417.314434 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9876543.209877
+head: 0x556de12192a0 temp:0x556de121b150 -> 9876543.209877
+head: 0x556de12192a0 temp:0x556de121b090 -> 9876543.209877
+head: 0x556de12192a0 current:0x556de121afd0 -> 9914139.104811
+head: 0x556de12192a0 temp:0x556de121af10 -> 9876543.209877
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9876543.209877
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9877559.315145
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b240 -> 380000000
+(Arkoudakia:5):(Arkoudi_1:8)/100/379ms - Switching Process In
+temp_exp_burst: 9958847.736626 time: 390000000 temp_last_burst: 10000000.000000 current->exp_burst: 9876543.209877 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 current:0x556de121b240 -> 9958847.736626
+head: 0x556de12192a0 temp:0x556de121b150 -> 9876543.209877
+head: 0x556de12192a0 temp:0x556de121b090 -> 9876543.209877
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9914139.104811
+head: 0x556de12192a0 temp:0x556de121af10 -> 9876543.209877
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9876543.209877
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9877559.315145
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b150 -> 390000000
+(Arkoudakia:5):(Arkoudi_2:7)/100/389ms - Switching Process In
+temp_exp_burst: 9958847.736626 time: 400000000 temp_last_burst: 10000000.000000 current->exp_burst: 9876543.209877 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9958847.736626
+head: 0x556de12192a0 current:0x556de121b150 -> 9958847.736626
+head: 0x556de12192a0 temp:0x556de121b090 -> 9876543.209877
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9914139.104811
+head: 0x556de12192a0 temp:0x556de121af10 -> 9876543.209877
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9876543.209877
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9877559.315145
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b090 -> 400000000
+(Saligkarakia:6)/100/399ms - Switching Process In
+temp_exp_burst: 9958847.736626 time: 410000000 temp_last_burst: 10000000.000000 current->exp_burst: 9876543.209877 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9958847.736626
+head: 0x556de12192a0 temp:0x556de121b150 -> 9958847.736626
+head: 0x556de12192a0 current:0x556de121b090 -> 9958847.736626
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9914139.104811
+head: 0x556de12192a0 temp:0x556de121af10 -> 9876543.209877
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9876543.209877
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9877559.315145
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121af10 -> 410000000
+(Gatakia:4)/100/409ms - Switching Process In
+temp_exp_burst: 9958847.736626 time: 420000000 temp_last_burst: 10000000.000000 current->exp_burst: 9876543.209877 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9958847.736626
+head: 0x556de12192a0 temp:0x556de121b150 -> 9958847.736626
+head: 0x556de12192a0 temp:0x556de121b090 -> 9958847.736626
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9914139.104811
+head: 0x556de12192a0 current:0x556de121af10 -> 9958847.736626
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9876543.209877
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9877559.315145
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121ae50 -> 420000000
+(Tigrakia:3)/100/419ms - Switching Process In
+temp_exp_burst: 9958847.736626 time: 430000000 temp_last_burst: 10000000.000000 current->exp_burst: 9876543.209877 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9958847.736626
+head: 0x556de12192a0 temp:0x556de121b150 -> 9958847.736626
+head: 0x556de12192a0 temp:0x556de121b090 -> 9958847.736626
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9914139.104811
+head: 0x556de12192a0 temp:0x556de121af10 -> 9958847.736626
+head: 0x556de12192a0 current:0x556de121ae50 -> 9958847.736626
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9877559.315145
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121acd0 -> 430000000
+(Papakia:1)/100/429ms - Switching Process In
+temp_exp_burst: 9959186.438382 time: 440000000 temp_last_burst: 10000000.000000 current->exp_burst: 9877559.315145 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9958847.736626
+head: 0x556de12192a0 temp:0x556de121b150 -> 9958847.736626
+head: 0x556de12192a0 temp:0x556de121b090 -> 9958847.736626
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9914139.104811
+head: 0x556de12192a0 temp:0x556de121af10 -> 9958847.736626
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9958847.736626
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 current:0x556de121acd0 -> 9959186.438382
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121afd0 -> 440000000
+(Arkoudakia:5)/100/439ms - Switching Process In
+temp_exp_burst: 9971379.701604 time: 450000000 temp_last_burst: 10000000.000000 current->exp_burst: 9914139.104811 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9958847.736626
+head: 0x556de12192a0 temp:0x556de121b150 -> 9958847.736626
+head: 0x556de12192a0 temp:0x556de121b090 -> 9958847.736626
+head: 0x556de12192a0 current:0x556de121afd0 -> 9971379.701604
+head: 0x556de12192a0 temp:0x556de121af10 -> 9958847.736626
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9958847.736626
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9959186.438382
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b240 -> 450000000
+(Arkoudakia:5):(Arkoudi_1:8)/100/449ms - Switching Process In
+temp_exp_burst: 9986282.578875 time: 460000000 temp_last_burst: 10000000.000000 current->exp_burst: 9958847.736626 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 current:0x556de121b240 -> 9986282.578875
+head: 0x556de12192a0 temp:0x556de121b150 -> 9958847.736626
+head: 0x556de12192a0 temp:0x556de121b090 -> 9958847.736626
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9971379.701604
+head: 0x556de12192a0 temp:0x556de121af10 -> 9958847.736626
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9958847.736626
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9959186.438382
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b150 -> 460000000
+(Arkoudakia:5):(Arkoudi_2:7)/100/459ms - Switching Process In
+temp_exp_burst: 9986282.578875 time: 470000000 temp_last_burst: 10000000.000000 current->exp_burst: 9958847.736626 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9986282.578875
+head: 0x556de12192a0 current:0x556de121b150 -> 9986282.578875
+head: 0x556de12192a0 temp:0x556de121b090 -> 9958847.736626
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9971379.701604
+head: 0x556de12192a0 temp:0x556de121af10 -> 9958847.736626
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9958847.736626
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9959186.438382
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b090 -> 470000000
+(Saligkarakia:6)/100/469ms - Switching Process In
+temp_exp_burst: 9986282.578875 time: 480000000 temp_last_burst: 10000000.000000 current->exp_burst: 9958847.736626 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9986282.578875
+head: 0x556de12192a0 temp:0x556de121b150 -> 9986282.578875
+head: 0x556de12192a0 current:0x556de121b090 -> 9986282.578875
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9971379.701604
+head: 0x556de12192a0 temp:0x556de121af10 -> 9958847.736626
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9958847.736626
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9959186.438382
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121af10 -> 480000000
+(Gatakia:4)/100/479ms - Switching Process In
+temp_exp_burst: 9986282.578875 time: 490000000 temp_last_burst: 10000000.000000 current->exp_burst: 9958847.736626 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9986282.578875
+head: 0x556de12192a0 temp:0x556de121b150 -> 9986282.578875
+head: 0x556de12192a0 temp:0x556de121b090 -> 9986282.578875
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9971379.701604
+head: 0x556de12192a0 current:0x556de121af10 -> 9986282.578875
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9958847.736626
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9959186.438382
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121ae50 -> 490000000
+(Tigrakia:3)/100/489ms - Switching Process In
+temp_exp_burst: 9986282.578875 time: 500000000 temp_last_burst: 10000000.000000 current->exp_burst: 9958847.736626 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9986282.578875
+head: 0x556de12192a0 temp:0x556de121b150 -> 9986282.578875
+head: 0x556de12192a0 temp:0x556de121b090 -> 9986282.578875
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9971379.701604
+head: 0x556de12192a0 temp:0x556de121af10 -> 9986282.578875
+head: 0x556de12192a0 current:0x556de121ae50 -> 9986282.578875
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9959186.438382
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121acd0 -> 500000000
+(Papakia:1)/100/499ms - Switching Process In
+temp_exp_burst: 9986395.479461 time: 510000000 temp_last_burst: 10000000.000000 current->exp_burst: 9959186.438382 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9986282.578875
+head: 0x556de12192a0 temp:0x556de121b150 -> 9986282.578875
+head: 0x556de12192a0 temp:0x556de121b090 -> 9986282.578875
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9971379.701604
+head: 0x556de12192a0 temp:0x556de121af10 -> 9986282.578875
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9986282.578875
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 current:0x556de121acd0 -> 9986395.479461
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121afd0 -> 510000000
+(Arkoudakia:5)/100/509ms - Switching Process In
+temp_exp_burst: 9990459.900535 time: 520000000 temp_last_burst: 10000000.000000 current->exp_burst: 9971379.701604 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9986282.578875
+head: 0x556de12192a0 temp:0x556de121b150 -> 9986282.578875
+head: 0x556de12192a0 temp:0x556de121b090 -> 9986282.578875
+head: 0x556de12192a0 current:0x556de121afd0 -> 9990459.900535
+head: 0x556de12192a0 temp:0x556de121af10 -> 9986282.578875
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9986282.578875
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9986395.479461
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b240 -> 520000000
+(Arkoudakia:5):(Arkoudi_1:8)/100/519ms - Switching Process In
+temp_exp_burst: 9995427.526292 time: 530000000 temp_last_burst: 10000000.000000 current->exp_burst: 9986282.578875 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 current:0x556de121b240 -> 9995427.526292
+head: 0x556de12192a0 temp:0x556de121b150 -> 9986282.578875
+head: 0x556de12192a0 temp:0x556de121b090 -> 9986282.578875
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9990459.900535
+head: 0x556de12192a0 temp:0x556de121af10 -> 9986282.578875
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9986282.578875
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9986395.479461
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b150 -> 530000000
+(Arkoudakia:5):(Arkoudi_2:7)/100/529ms - Switching Process In
+temp_exp_burst: 9995427.526292 time: 540000000 temp_last_burst: 10000000.000000 current->exp_burst: 9986282.578875 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9995427.526292
+head: 0x556de12192a0 current:0x556de121b150 -> 9995427.526292
+head: 0x556de12192a0 temp:0x556de121b090 -> 9986282.578875
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9990459.900535
+head: 0x556de12192a0 temp:0x556de121af10 -> 9986282.578875
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9986282.578875
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9986395.479461
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b090 -> 540000000
+(Saligkarakia:6)/100/539ms - Switching Process In
+temp_exp_burst: 9995427.526292 time: 550000000 temp_last_burst: 10000000.000000 current->exp_burst: 9986282.578875 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9995427.526292
+head: 0x556de12192a0 temp:0x556de121b150 -> 9995427.526292
+head: 0x556de12192a0 current:0x556de121b090 -> 9995427.526292
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9990459.900535
+head: 0x556de12192a0 temp:0x556de121af10 -> 9986282.578875
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9986282.578875
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9986395.479461
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121af10 -> 550000000
+(Gatakia:4)/100/549ms - Switching Process In
+temp_exp_burst: 9995427.526292 time: 560000000 temp_last_burst: 10000000.000000 current->exp_burst: 9986282.578875 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9995427.526292
+head: 0x556de12192a0 temp:0x556de121b150 -> 9995427.526292
+head: 0x556de12192a0 temp:0x556de121b090 -> 9995427.526292
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9990459.900535
+head: 0x556de12192a0 current:0x556de121af10 -> 9995427.526292
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9986282.578875
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9986395.479461
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121ae50 -> 560000000
+(Tigrakia:3)/100/559ms - Switching Process In
+temp_exp_burst: 9995427.526292 time: 570000000 temp_last_burst: 10000000.000000 current->exp_burst: 9986282.578875 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9995427.526292
+head: 0x556de12192a0 temp:0x556de121b150 -> 9995427.526292
+head: 0x556de12192a0 temp:0x556de121b090 -> 9995427.526292
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9990459.900535
+head: 0x556de12192a0 temp:0x556de121af10 -> 9995427.526292
+head: 0x556de12192a0 current:0x556de121ae50 -> 9995427.526292
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9986395.479461
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121acd0 -> 570000000
+(Papakia:1)/100/569ms - Switching Process In
+temp_exp_burst: 9995465.159820 time: 580000000 temp_last_burst: 10000000.000000 current->exp_burst: 9986395.479461 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9995427.526292
+head: 0x556de12192a0 temp:0x556de121b150 -> 9995427.526292
+head: 0x556de12192a0 temp:0x556de121b090 -> 9995427.526292
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9990459.900535
+head: 0x556de12192a0 temp:0x556de121af10 -> 9995427.526292
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9995427.526292
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 current:0x556de121acd0 -> 9995465.159820
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121afd0 -> 580000000
+(Arkoudakia:5)/100/579ms - Switching Process In
+temp_exp_burst: 9996819.966845 time: 590000000 temp_last_burst: 10000000.000000 current->exp_burst: 9990459.900535 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9995427.526292
+head: 0x556de12192a0 temp:0x556de121b150 -> 9995427.526292
+head: 0x556de12192a0 temp:0x556de121b090 -> 9995427.526292
+head: 0x556de12192a0 current:0x556de121afd0 -> 9996819.966845
+head: 0x556de12192a0 temp:0x556de121af10 -> 9995427.526292
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9995427.526292
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9995465.159820
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b240 -> 590000000
+(Arkoudakia:5):(Arkoudi_1:8)/100/589ms - Switching Process In
+temp_exp_burst: 9998475.842097 time: 600000000 temp_last_burst: 10000000.000000 current->exp_burst: 9995427.526292 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 current:0x556de121b240 -> 9998475.842097
+head: 0x556de12192a0 temp:0x556de121b150 -> 9995427.526292
+head: 0x556de12192a0 temp:0x556de121b090 -> 9995427.526292
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9996819.966845
+head: 0x556de12192a0 temp:0x556de121af10 -> 9995427.526292
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9995427.526292
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9995465.159820
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b150 -> 600000000
+(Arkoudakia:5):(Arkoudi_2:7)/100/599ms - Switching Process In
+temp_exp_burst: 9998475.842097 time: 610000000 temp_last_burst: 10000000.000000 current->exp_burst: 9995427.526292 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9998475.842097
+head: 0x556de12192a0 current:0x556de121b150 -> 9998475.842097
+head: 0x556de12192a0 temp:0x556de121b090 -> 9995427.526292
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9996819.966845
+head: 0x556de12192a0 temp:0x556de121af10 -> 9995427.526292
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9995427.526292
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9995465.159820
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b090 -> 610000000
+(Saligkarakia:6)/100/609ms - Switching Process In
+temp_exp_burst: 9998475.842097 time: 620000000 temp_last_burst: 10000000.000000 current->exp_burst: 9995427.526292 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9998475.842097
+head: 0x556de12192a0 temp:0x556de121b150 -> 9998475.842097
+head: 0x556de12192a0 current:0x556de121b090 -> 9998475.842097
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9996819.966845
+head: 0x556de12192a0 temp:0x556de121af10 -> 9995427.526292
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9995427.526292
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9995465.159820
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121af10 -> 620000000
+(Gatakia:4)/100/619ms - Switching Process In
+###-An Interrupt has fired!-###
+temp_exp_burst: 3331809.175431 time: 620000000 temp_last_burst: 0.000000 current->exp_burst: 9995427.526292 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9998475.842097
+head: 0x556de12192a0 temp:0x556de121b150 -> 9998475.842097
+head: 0x556de12192a0 temp:0x556de121b090 -> 9998475.842097
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9996819.966845
+head: 0x556de12192a0 current:0x556de121af10 -> 3331809.175431
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9995427.526292
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9995465.159820
+--------------------EXIT FOR LOOP-----------------
+temp_exp_burst: 9998475.842097 time: 630000000 temp_last_burst: 10000000.000000 current->exp_burst: 9995427.526292 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9998475.842097
+head: 0x556de12192a0 temp:0x556de121b150 -> 9998475.842097
+head: 0x556de12192a0 temp:0x556de121b090 -> 9998475.842097
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9996819.966845
+head: 0x556de12192a0 current:0x556de121af10 -> 9998475.842097
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9995427.526292
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9995465.159820
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121ae50 -> 630000000
+(Tigrakia:3)/100/629ms - Switching Process In
+temp_exp_burst: 9998475.842097 time: 640000000 temp_last_burst: 10000000.000000 current->exp_burst: 9995427.526292 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9998475.842097
+head: 0x556de12192a0 temp:0x556de121b150 -> 9998475.842097
+head: 0x556de12192a0 temp:0x556de121b090 -> 9998475.842097
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9996819.966845
+head: 0x556de12192a0 temp:0x556de121af10 -> 9998475.842097
+head: 0x556de12192a0 current:0x556de121ae50 -> 9998475.842097
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9995465.159820
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121acd0 -> 640000000
+(Papakia:1)/100/639ms - Switching Process In
+temp_exp_burst: 9998488.386607 time: 650000000 temp_last_burst: 10000000.000000 current->exp_burst: 9995465.159820 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9998475.842097
+head: 0x556de12192a0 temp:0x556de121b150 -> 9998475.842097
+head: 0x556de12192a0 temp:0x556de121b090 -> 9998475.842097
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9996819.966845
+head: 0x556de12192a0 temp:0x556de121af10 -> 9998475.842097
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9998475.842097
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 current:0x556de121acd0 -> 9998488.386607
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121afd0 -> 650000000
+(Arkoudakia:5)/100/649ms - Switching Process In
+temp_exp_burst: 9998939.988948 time: 660000000 temp_last_burst: 10000000.000000 current->exp_burst: 9996819.966845 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9998475.842097
+head: 0x556de12192a0 temp:0x556de121b150 -> 9998475.842097
+head: 0x556de12192a0 temp:0x556de121b090 -> 9998475.842097
+head: 0x556de12192a0 current:0x556de121afd0 -> 9998939.988948
+head: 0x556de12192a0 temp:0x556de121af10 -> 9998475.842097
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9998475.842097
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9998488.386607
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b240 -> 660000000
+(Arkoudakia:5):(Arkoudi_1:8)/100/659ms - Switching Process In
+temp_exp_burst: 9999491.947366 time: 670000000 temp_last_burst: 10000000.000000 current->exp_burst: 9998475.842097 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 current:0x556de121b240 -> 9999491.947366
+head: 0x556de12192a0 temp:0x556de121b150 -> 9998475.842097
+head: 0x556de12192a0 temp:0x556de121b090 -> 9998475.842097
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9998939.988948
+head: 0x556de12192a0 temp:0x556de121af10 -> 9998475.842097
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9998475.842097
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9998488.386607
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b150 -> 670000000
+(Arkoudakia:5):(Arkoudi_2:7)/100/669ms - Switching Process In
+temp_exp_burst: 9999491.947366 time: 680000000 temp_last_burst: 10000000.000000 current->exp_burst: 9998475.842097 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999491.947366
+head: 0x556de12192a0 current:0x556de121b150 -> 9999491.947366
+head: 0x556de12192a0 temp:0x556de121b090 -> 9998475.842097
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9998939.988948
+head: 0x556de12192a0 temp:0x556de121af10 -> 9998475.842097
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9998475.842097
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9998488.386607
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b090 -> 680000000
+(Saligkarakia:6)/100/679ms - Switching Process In
+temp_exp_burst: 9999491.947366 time: 690000000 temp_last_burst: 10000000.000000 current->exp_burst: 9998475.842097 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999491.947366
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999491.947366
+head: 0x556de12192a0 current:0x556de121b090 -> 9999491.947366
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9998939.988948
+head: 0x556de12192a0 temp:0x556de121af10 -> 9998475.842097
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9998475.842097
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9998488.386607
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121af10 -> 690000000
+(Gatakia:4)/100/689ms - Switching Process In
+temp_exp_burst: 9999491.947366 time: 700000000 temp_last_burst: 10000000.000000 current->exp_burst: 9998475.842097 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999491.947366
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999491.947366
+head: 0x556de12192a0 temp:0x556de121b090 -> 9999491.947366
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9998939.988948
+head: 0x556de12192a0 current:0x556de121af10 -> 9999491.947366
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9998475.842097
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9998488.386607
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121ae50 -> 700000000
+(Tigrakia:3)/100/699ms - Switching Process In
+temp_exp_burst: 9999491.947366 time: 710000000 temp_last_burst: 10000000.000000 current->exp_burst: 9998475.842097 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999491.947366
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999491.947366
+head: 0x556de12192a0 temp:0x556de121b090 -> 9999491.947366
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9998939.988948
+head: 0x556de12192a0 temp:0x556de121af10 -> 9999491.947366
+head: 0x556de12192a0 current:0x556de121ae50 -> 9999491.947366
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9998488.386607
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121acd0 -> 710000000
+(Papakia:1)/100/709ms - Switching Process In
+temp_exp_burst: 9999496.128869 time: 720000000 temp_last_burst: 10000000.000000 current->exp_burst: 9998488.386607 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999491.947366
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999491.947366
+head: 0x556de12192a0 temp:0x556de121b090 -> 9999491.947366
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9998939.988948
+head: 0x556de12192a0 temp:0x556de121af10 -> 9999491.947366
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9999491.947366
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 current:0x556de121acd0 -> 9999496.128869
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121afd0 -> 720000000
+(Arkoudakia:5)/100/719ms - Switching Process In
+temp_exp_burst: 9999646.662983 time: 730000000 temp_last_burst: 10000000.000000 current->exp_burst: 9998939.988948 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999491.947366
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999491.947366
+head: 0x556de12192a0 temp:0x556de121b090 -> 9999491.947366
+head: 0x556de12192a0 current:0x556de121afd0 -> 9999646.662983
+head: 0x556de12192a0 temp:0x556de121af10 -> 9999491.947366
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9999491.947366
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9999496.128869
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b240 -> 730000000
+(Arkoudakia:5):(Arkoudi_1:8)/100/729ms - Switching Process In
+temp_exp_burst: 9999830.649122 time: 740000000 temp_last_burst: 10000000.000000 current->exp_burst: 9999491.947366 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 current:0x556de121b240 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999491.947366
+head: 0x556de12192a0 temp:0x556de121b090 -> 9999491.947366
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9999646.662983
+head: 0x556de12192a0 temp:0x556de121af10 -> 9999491.947366
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9999491.947366
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9999496.128869
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b150 -> 740000000
+(Arkoudakia:5):(Arkoudi_2:7)/100/739ms - Switching Process In
+temp_exp_burst: 9999830.649122 time: 750000000 temp_last_burst: 10000000.000000 current->exp_burst: 9999491.947366 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999830.649122
+head: 0x556de12192a0 current:0x556de121b150 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121b090 -> 9999491.947366
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9999646.662983
+head: 0x556de12192a0 temp:0x556de121af10 -> 9999491.947366
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9999491.947366
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9999496.128869
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b090 -> 750000000
+(Saligkarakia:6)/100/749ms - Switching Process In
+###-An Interrupt has fired!-###
+temp_exp_burst: 3333163.982455 time: 750000000 temp_last_burst: 0.000000 current->exp_burst: 9999491.947366 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999830.649122
+head: 0x556de12192a0 current:0x556de121b090 -> 3333163.982455
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9999646.662983
+head: 0x556de12192a0 temp:0x556de121af10 -> 9999491.947366
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9999491.947366
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9999496.128869
+--------------------EXIT FOR LOOP-----------------
+temp_exp_burst: 9999830.649122 time: 760000000 temp_last_burst: 10000000.000000 current->exp_burst: 9999491.947366 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999830.649122
+head: 0x556de12192a0 current:0x556de121b090 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9999646.662983
+head: 0x556de12192a0 temp:0x556de121af10 -> 9999491.947366
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9999491.947366
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9999496.128869
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121af10 -> 760000000
+(Gatakia:4)/100/759ms - Switching Process In
+temp_exp_burst: 9999830.649122 time: 770000000 temp_last_burst: 10000000.000000 current->exp_burst: 9999491.947366 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121b090 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9999646.662983
+head: 0x556de12192a0 current:0x556de121af10 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9999491.947366
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9999496.128869
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121ae50 -> 770000000
+(Tigrakia:3)/100/769ms - Switching Process In
+temp_exp_burst: 9999830.649122 time: 780000000 temp_last_burst: 10000000.000000 current->exp_burst: 9999491.947366 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121b090 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9999646.662983
+head: 0x556de12192a0 temp:0x556de121af10 -> 9999830.649122
+head: 0x556de12192a0 current:0x556de121ae50 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9999496.128869
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121acd0 -> 780000000
+(Papakia:1)/100/779ms - Switching Process In
+temp_exp_burst: 9999832.042956 time: 790000000 temp_last_burst: 10000000.000000 current->exp_burst: 9999496.128869 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121b090 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9999646.662983
+head: 0x556de12192a0 temp:0x556de121af10 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 current:0x556de121acd0 -> 9999832.042956
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121afd0 -> 790000000
+(Arkoudakia:5)/100/789ms - Switching Process In
+temp_exp_burst: 9999882.220994 time: 800000000 temp_last_burst: 10000000.000000 current->exp_burst: 9999646.662983 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121b090 -> 9999830.649122
+head: 0x556de12192a0 current:0x556de121afd0 -> 9999882.220994
+head: 0x556de12192a0 temp:0x556de121af10 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9999832.042956
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b240 -> 800000000
+(Arkoudakia:5):(Arkoudi_1:8)/100/799ms - Switching Process In
+temp_exp_burst: 9999943.549707 time: 810000000 temp_last_burst: 10000000.000000 current->exp_burst: 9999830.649122 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 current:0x556de121b240 -> 9999943.549707
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121b090 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9999882.220994
+head: 0x556de12192a0 temp:0x556de121af10 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9999832.042956
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b150 -> 810000000
+(Arkoudakia:5):(Arkoudi_2:7)/100/809ms - Switching Process In
+###-An Interrupt has fired!-###
+temp_exp_burst: 3333276.883041 time: 810000000 temp_last_burst: 0.000000 current->exp_burst: 9999830.649122 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999943.549707
+head: 0x556de12192a0 current:0x556de121b150 -> 3333276.883041
+head: 0x556de12192a0 temp:0x556de121b090 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9999882.220994
+head: 0x556de12192a0 temp:0x556de121af10 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9999832.042956
+--------------------EXIT FOR LOOP-----------------
+temp_exp_burst: 9999943.549707 time: 820000000 temp_last_burst: 10000000.000000 current->exp_burst: 9999830.649122 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999943.549707
+head: 0x556de12192a0 current:0x556de121b150 -> 9999943.549707
+head: 0x556de12192a0 temp:0x556de121b090 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9999882.220994
+head: 0x556de12192a0 temp:0x556de121af10 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9999832.042956
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b090 -> 820000000
+(Saligkarakia:6)/100/819ms - Switching Process In
+temp_exp_burst: 9999943.549707 time: 830000000 temp_last_burst: 10000000.000000 current->exp_burst: 9999830.649122 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999943.549707
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999943.549707
+head: 0x556de12192a0 current:0x556de121b090 -> 9999943.549707
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9999882.220994
+head: 0x556de12192a0 temp:0x556de121af10 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9999832.042956
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121af10 -> 830000000
+(Gatakia:4)/100/829ms - Switching Process In
+temp_exp_burst: 9999943.549707 time: 840000000 temp_last_burst: 10000000.000000 current->exp_burst: 9999830.649122 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999943.549707
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999943.549707
+head: 0x556de12192a0 temp:0x556de121b090 -> 9999943.549707
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9999882.220994
+head: 0x556de12192a0 current:0x556de121af10 -> 9999943.549707
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9999830.649122
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9999832.042956
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121ae50 -> 840000000
+(Tigrakia:3)/100/839ms - Switching Process In
+temp_exp_burst: 9999943.549707 time: 850000000 temp_last_burst: 10000000.000000 current->exp_burst: 9999830.649122 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999943.549707
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999943.549707
+head: 0x556de12192a0 temp:0x556de121b090 -> 9999943.549707
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9999882.220994
+head: 0x556de12192a0 temp:0x556de121af10 -> 9999943.549707
+head: 0x556de12192a0 current:0x556de121ae50 -> 9999943.549707
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9999832.042956
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121acd0 -> 850000000
+(Papakia:1)/100/849ms - Switching Process In
+temp_exp_burst: 9999944.014319 time: 860000000 temp_last_burst: 10000000.000000 current->exp_burst: 9999832.042956 
+--------------------IN FOR LOOP 9-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999943.549707
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999943.549707
+head: 0x556de12192a0 temp:0x556de121b090 -> 9999943.549707
+head: 0x556de12192a0 temp:0x556de121afd0 -> 9999882.220994
+head: 0x556de12192a0 temp:0x556de121af10 -> 9999943.549707
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9999943.549707
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 current:0x556de121acd0 -> 9999944.014319
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121afd0 -> 860000000
+(Arkoudakia:5)/100/859ms - Switching Process In
+	(Arkoudakia:5)/100/866ms - Going to Sleep
+temp_exp_burst: 1111098.024555 time: 860000000 temp_last_burst: 0.000000 current->exp_burst: 3333294.073665 
+--------------------IN FOR LOOP 8-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999943.549707
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999943.549707
+head: 0x556de12192a0 temp:0x556de121b090 -> 9999943.549707
+head: 0x556de12192a0 temp:0x556de121af10 -> 9999943.549707
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9999943.549707
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9999944.014319
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b240 -> 860000000
+(Arkoudakia:5):(Arkoudi_1:8)/100/867ms - Switching Process In
+temp_exp_burst: 9999981.183236 time: 870000000 temp_last_burst: 10000000.000000 current->exp_burst: 9999943.549707 
+--------------------IN FOR LOOP 8-----------------
+head: 0x556de12192a0 current:0x556de121b240 -> 9999981.183236
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999943.549707
+head: 0x556de12192a0 temp:0x556de121b090 -> 9999943.549707
+head: 0x556de12192a0 temp:0x556de121af10 -> 9999943.549707
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9999943.549707
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9999944.014319
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b150 -> 870000000
+(Arkoudakia:5):(Arkoudi_2:7)/100/869ms - Switching Process In
+temp_exp_burst: 9999981.183236 time: 880000000 temp_last_burst: 10000000.000000 current->exp_burst: 9999943.549707 
+--------------------IN FOR LOOP 8-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999981.183236
+head: 0x556de12192a0 current:0x556de121b150 -> 9999981.183236
+head: 0x556de12192a0 temp:0x556de121b090 -> 9999943.549707
+head: 0x556de12192a0 temp:0x556de121af10 -> 9999943.549707
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9999943.549707
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9999944.014319
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b090 -> 880000000
+(Saligkarakia:6)/100/879ms - Switching Process In
+temp_exp_burst: 9999981.183236 time: 890000000 temp_last_burst: 10000000.000000 current->exp_burst: 9999943.549707 
+--------------------IN FOR LOOP 8-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999981.183236
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999981.183236
+head: 0x556de12192a0 current:0x556de121b090 -> 9999981.183236
+head: 0x556de12192a0 temp:0x556de121af10 -> 9999943.549707
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9999943.549707
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9999944.014319
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121af10 -> 890000000
+(Gatakia:4)/100/889ms - Switching Process In
+temp_exp_burst: 9999981.183236 time: 900000000 temp_last_burst: 10000000.000000 current->exp_burst: 9999943.549707 
+--------------------IN FOR LOOP 8-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999981.183236
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999981.183236
+head: 0x556de12192a0 temp:0x556de121b090 -> 9999981.183236
+head: 0x556de12192a0 current:0x556de121af10 -> 9999981.183236
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9999943.549707
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9999944.014319
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121ae50 -> 900000000
+(Tigrakia:3)/100/899ms - Switching Process In
+temp_exp_burst: 9999981.183236 time: 910000000 temp_last_burst: 10000000.000000 current->exp_burst: 9999943.549707 
+--------------------IN FOR LOOP 8-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999981.183236
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999981.183236
+head: 0x556de12192a0 temp:0x556de121b090 -> 9999981.183236
+head: 0x556de12192a0 temp:0x556de121af10 -> 9999981.183236
+head: 0x556de12192a0 current:0x556de121ae50 -> 9999981.183236
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+head: 0x556de12192a0 temp:0x556de121acd0 -> 9999944.014319
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121acd0 -> 910000000
+(Papakia:1)/100/909ms - Switching Process In
+###-Process: (Papakia:1) is going down-###
+temp_exp_burst: 606666666.666667 time: 910000000 temp_last_burst: 910000000.000000 current->exp_burst: 0.000000 
+--------------------IN FOR LOOP 7-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999981.183236
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999981.183236
+head: 0x556de12192a0 temp:0x556de121b090 -> 9999981.183236
+head: 0x556de12192a0 temp:0x556de121af10 -> 9999981.183236
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9999981.183236
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b240 -> 910000000
+(Arkoudakia:5):(Arkoudi_1:8)/100/910ms - Switching Process In
+temp_exp_burst: 9999993.727745 time: 920000000 temp_last_burst: 10000000.000000 current->exp_burst: 9999981.183236 
+--------------------IN FOR LOOP 7-----------------
+head: 0x556de12192a0 current:0x556de121b240 -> 9999993.727745
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999981.183236
+head: 0x556de12192a0 temp:0x556de121b090 -> 9999981.183236
+head: 0x556de12192a0 temp:0x556de121af10 -> 9999981.183236
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9999981.183236
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b150 -> 920000000
+(Arkoudakia:5):(Arkoudi_2:7)/100/919ms - Switching Process In
+temp_exp_burst: 9999993.727745 time: 930000000 temp_last_burst: 10000000.000000 current->exp_burst: 9999981.183236 
+--------------------IN FOR LOOP 7-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999993.727745
+head: 0x556de12192a0 current:0x556de121b150 -> 9999993.727745
+head: 0x556de12192a0 temp:0x556de121b090 -> 9999981.183236
+head: 0x556de12192a0 temp:0x556de121af10 -> 9999981.183236
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9999981.183236
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b090 -> 930000000
+(Saligkarakia:6)/100/929ms - Switching Process In
+temp_exp_burst: 9999993.727745 time: 940000000 temp_last_burst: 10000000.000000 current->exp_burst: 9999981.183236 
+--------------------IN FOR LOOP 7-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999993.727745
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999993.727745
+head: 0x556de12192a0 current:0x556de121b090 -> 9999993.727745
+head: 0x556de12192a0 temp:0x556de121af10 -> 9999981.183236
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9999981.183236
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121af10 -> 940000000
+(Gatakia:4)/100/939ms - Switching Process In
+temp_exp_burst: 9999993.727745 time: 950000000 temp_last_burst: 10000000.000000 current->exp_burst: 9999981.183236 
+--------------------IN FOR LOOP 7-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999993.727745
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999993.727745
+head: 0x556de12192a0 temp:0x556de121b090 -> 9999993.727745
+head: 0x556de12192a0 current:0x556de121af10 -> 9999993.727745
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9999981.183236
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121ae50 -> 950000000
+(Tigrakia:3)/100/949ms - Switching Process In
+temp_exp_burst: 9999993.727745 time: 960000000 temp_last_burst: 10000000.000000 current->exp_burst: 9999981.183236 
+--------------------IN FOR LOOP 7-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999993.727745
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999993.727745
+head: 0x556de12192a0 temp:0x556de121b090 -> 9999993.727745
+head: 0x556de12192a0 temp:0x556de121af10 -> 9999993.727745
+head: 0x556de12192a0 current:0x556de121ae50 -> 9999993.727745
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b240 -> 960000000
+(Arkoudakia:5):(Arkoudi_1:8)/100/959ms - Switching Process In
+temp_exp_burst: 9999997.909248 time: 970000000 temp_last_burst: 10000000.000000 current->exp_burst: 9999993.727745 
+--------------------IN FOR LOOP 7-----------------
+head: 0x556de12192a0 current:0x556de121b240 -> 9999997.909248
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999993.727745
+head: 0x556de12192a0 temp:0x556de121b090 -> 9999993.727745
+head: 0x556de12192a0 temp:0x556de121af10 -> 9999993.727745
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9999993.727745
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b150 -> 970000000
+(Arkoudakia:5):(Arkoudi_2:7)/100/969ms - Switching Process In
+temp_exp_burst: 9999997.909248 time: 980000000 temp_last_burst: 10000000.000000 current->exp_burst: 9999993.727745 
+--------------------IN FOR LOOP 7-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999997.909248
+head: 0x556de12192a0 current:0x556de121b150 -> 9999997.909248
+head: 0x556de12192a0 temp:0x556de121b090 -> 9999993.727745
+head: 0x556de12192a0 temp:0x556de121af10 -> 9999993.727745
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9999993.727745
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b090 -> 980000000
+(Saligkarakia:6)/100/979ms - Switching Process In
+temp_exp_burst: 9999997.909248 time: 990000000 temp_last_burst: 10000000.000000 current->exp_burst: 9999993.727745 
+--------------------IN FOR LOOP 7-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999997.909248
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999997.909248
+head: 0x556de12192a0 current:0x556de121b090 -> 9999997.909248
+head: 0x556de12192a0 temp:0x556de121af10 -> 9999993.727745
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9999993.727745
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121af10 -> 990000000
+(Gatakia:4)/100/989ms - Switching Process In
+temp_exp_burst: 9999997.909248 time: 1000000000 temp_last_burst: 10000000.000000 current->exp_burst: 9999993.727745 
+--------------------IN FOR LOOP 7-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999997.909248
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999997.909248
+head: 0x556de12192a0 temp:0x556de121b090 -> 9999997.909248
+head: 0x556de12192a0 current:0x556de121af10 -> 9999997.909248
+head: 0x556de12192a0 temp:0x556de121ae50 -> 9999993.727745
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121ae50 -> 1000000000
+(Tigrakia:3)/100/999ms - Switching Process In
+###-Sending Kill Message-###
+###-Process: (Tigrakia:3) is going down-###
+temp_exp_burst: 868888888.888889 time: 1000000000 temp_last_burst: 1000000000.000000 current->exp_burst: 606666666.666667 
+--------------------IN FOR LOOP 6-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999997.909248
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999997.909248
+head: 0x556de12192a0 temp:0x556de121b090 -> 9999997.909248
+head: 0x556de12192a0 temp:0x556de121af10 -> 9999997.909248
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b240 -> 1000000000
+(Arkoudakia:5):(Arkoudi_1:8)/100/1000ms - Switching Process In
+temp_exp_burst: 9999999.303083 time: 1010000000 temp_last_burst: 10000000.000000 current->exp_burst: 9999997.909248 
+--------------------IN FOR LOOP 6-----------------
+head: 0x556de12192a0 current:0x556de121b240 -> 9999999.303083
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999997.909248
+head: 0x556de12192a0 temp:0x556de121b090 -> 9999997.909248
+head: 0x556de12192a0 temp:0x556de121af10 -> 9999997.909248
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b150 -> 1010000000
+(Arkoudakia:5):(Arkoudi_2:7)/100/1009ms - Switching Process In
+temp_exp_burst: 9999999.303083 time: 1020000000 temp_last_burst: 10000000.000000 current->exp_burst: 9999997.909248 
+--------------------IN FOR LOOP 6-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999999.303083
+head: 0x556de12192a0 current:0x556de121b150 -> 9999999.303083
+head: 0x556de12192a0 temp:0x556de121b090 -> 9999997.909248
+head: 0x556de12192a0 temp:0x556de121af10 -> 9999997.909248
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b090 -> 1020000000
+(Saligkarakia:6)/100/1019ms - Switching Process In
+###-Process: (Saligkarakia:6) is going down-###
+temp_exp_burst: 969629629.629630 time: 1020000000 temp_last_burst: 1020000000.000000 current->exp_burst: 868888888.888889 
+--------------------IN FOR LOOP 5-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999999.303083
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999999.303083
+head: 0x556de12192a0 temp:0x556de121af10 -> 9999997.909248
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121af10 -> 1020000000
+(Gatakia:4)/100/1020ms - Switching Process In
+###-Process: (Gatakia:4) is going down-###
+temp_exp_burst: 1003209876.543210 time: 1020000000 temp_last_burst: 1020000000.000000 current->exp_burst: 969629629.629630 
+--------------------IN FOR LOOP 4-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999999.303083
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999999.303083
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b240 -> 1020000000
+(Arkoudakia:5):(Arkoudi_1:8)/100/1020ms - Switching Process In
+temp_exp_burst: 9999999.767694 time: 1030000000 temp_last_burst: 10000000.000000 current->exp_burst: 9999999.303083 
+--------------------IN FOR LOOP 4-----------------
+head: 0x556de12192a0 current:0x556de121b240 -> 9999999.767694
+head: 0x556de12192a0 temp:0x556de121b150 -> 9999999.303083
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b150 -> 1030000000
+(Arkoudakia:5):(Arkoudi_2:7)/100/1029ms - Switching Process In
+	(Arkoudakia:5):(Arkoudi_2:7)/100/1034ms - Going to Sleep
+temp_exp_burst: 1111111.033676 time: 1030000000 temp_last_burst: 0.000000 current->exp_burst: 3333333.101028 
+--------------------IN FOR LOOP 3-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 9999999.767694
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b240 -> 1030000000
+(Arkoudakia:5):(Arkoudi_1:8)/100/1035ms - Switching Process In
+temp_exp_burst: 9999999.922565 time: 1040000000 temp_last_burst: 10000000.000000 current->exp_burst: 9999999.767694 
+--------------------IN FOR LOOP 3-----------------
+head: 0x556de12192a0 current:0x556de121b240 -> 9999999.922565
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+--------------------EXIT FOR LOOP-----------------
+temp_exp_burst: 16666666.589231 time: 1050000000 temp_last_burst: 20000000.000000 current->exp_burst: 9999999.767694 
+--------------------IN FOR LOOP 3-----------------
+head: 0x556de12192a0 current:0x556de121b240 -> 16666666.589231
+head: 0x556de12192a0 temp:0x556de121ad90 -> 13333333.333333
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121ad90 -> 1050000000
+(Vatraxakia:2)/100/1049ms - Switching Process In
+###-Process: (Vatraxakia:2) is going down-###
+temp_exp_burst: 1034403292.181070 time: 1050000000 temp_last_burst: 1050000000.000000 current->exp_burst: 1003209876.543210 
+--------------------IN FOR LOOP 2-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 16666666.589231
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b240 -> 1050000000
+(Arkoudakia:5):(Arkoudi_1:8)/100/1050ms - Switching Process In
+temp_exp_burst: 12222222.196410 time: 1060000000 temp_last_burst: 10000000.000000 current->exp_burst: 16666666.589231 
+--------------------IN FOR LOOP 2-----------------
+head: 0x556de12192a0 current:0x556de121b240 -> 12222222.196410
+--------------------EXIT FOR LOOP-----------------
+temp_exp_burst: 18888888.863077 time: 1070000000 temp_last_burst: 20000000.000000 current->exp_burst: 16666666.589231 
+--------------------IN FOR LOOP 2-----------------
+head: 0x556de12192a0 current:0x556de121b240 -> 18888888.863077
+--------------------EXIT FOR LOOP-----------------
+temp_exp_burst: 25555555.529744 time: 1080000000 temp_last_burst: 30000000.000000 current->exp_burst: 16666666.589231 
+--------------------IN FOR LOOP 2-----------------
+head: 0x556de12192a0 current:0x556de121b240 -> 25555555.529744
+--------------------EXIT FOR LOOP-----------------
+temp_exp_burst: 32222222.196410 time: 1090000000 temp_last_burst: 40000000.000000 current->exp_burst: 16666666.589231 
+--------------------IN FOR LOOP 2-----------------
+head: 0x556de12192a0 current:0x556de121b240 -> 32222222.196410
+--------------------EXIT FOR LOOP-----------------
+temp_exp_burst: 38888888.863077 time: 1100000000 temp_last_burst: 50000000.000000 current->exp_burst: 16666666.589231 
+--------------------IN FOR LOOP 2-----------------
+head: 0x556de12192a0 current:0x556de121b240 -> 38888888.863077
+--------------------EXIT FOR LOOP-----------------
+###-An Interrupt has fired!-###
+	(Arkoudakia:5)/100/1106ms - Waking Up from Sleep
+	(Arkoudakia:5):(Arkoudi_2:7)/100/1106ms - Waking Up from Sleep
+temp_exp_burst: 38888888.863077 time: 1100000000 temp_last_burst: 50000000.000000 current->exp_burst: 16666666.589231 
+--------------------IN FOR LOOP 4-----------------
+head: 0x556de12192a0 temp:0x556de121b150 -> 1111111.033676
+head: 0x556de12192a0 temp:0x556de121afd0 -> 1111098.024555
+head: 0x556de12192a0 current:0x556de121b240 -> 38888888.863077
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121afd0 -> 1100000000
+(Arkoudakia:5)/100/1107ms - Switching Process In
+temp_exp_burst: 7037032.674852 time: 1110000000 temp_last_burst: 10000000.000000 current->exp_burst: 1111098.024555 
+--------------------IN FOR LOOP 4-----------------
+head: 0x556de12192a0 temp:0x556de121b150 -> 1111111.033676
+head: 0x556de12192a0 current:0x556de121afd0 -> 7037032.674852
+head: 0x556de12192a0 temp:0x556de121b240 -> 38888888.863077
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b150 -> 1110000000
+(Arkoudakia:5):(Arkoudi_2:7)/100/1109ms - Switching Process In
+###-Process: (Arkoudakia:5):(Arkoudi_2:7) is going down-###
+temp_exp_burst: 1084801097.393690 time: 1110000000 temp_last_burst: 1110000000.000000 current->exp_burst: 1034403292.181070 
+--------------------IN FOR LOOP 3-----------------
+head: 0x556de12192a0 temp:0x556de121afd0 -> 7037032.674852
+head: 0x556de12192a0 temp:0x556de121b240 -> 38888888.863077
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121afd0 -> 1110000000
+(Arkoudakia:5)/100/1110ms - Switching Process In
+temp_exp_burst: 9012344.224951 time: 1120000000 temp_last_burst: 10000000.000000 current->exp_burst: 7037032.674852 
+--------------------IN FOR LOOP 3-----------------
+head: 0x556de12192a0 current:0x556de121afd0 -> 9012344.224951
+head: 0x556de12192a0 temp:0x556de121b240 -> 38888888.863077
+--------------------EXIT FOR LOOP-----------------
+temp_exp_burst: 15679010.891617 time: 1130000000 temp_last_burst: 20000000.000000 current->exp_burst: 7037032.674852 
+--------------------IN FOR LOOP 3-----------------
+head: 0x556de12192a0 current:0x556de121afd0 -> 15679010.891617
+head: 0x556de12192a0 temp:0x556de121b240 -> 38888888.863077
+--------------------EXIT FOR LOOP-----------------
+temp_exp_burst: 22345677.558284 time: 1140000000 temp_last_burst: 30000000.000000 current->exp_burst: 7037032.674852 
+--------------------IN FOR LOOP 3-----------------
+head: 0x556de12192a0 current:0x556de121afd0 -> 22345677.558284
+head: 0x556de12192a0 temp:0x556de121b240 -> 38888888.863077
+--------------------EXIT FOR LOOP-----------------
+temp_exp_burst: 29012344.224951 time: 1150000000 temp_last_burst: 40000000.000000 current->exp_burst: 7037032.674852 
+--------------------IN FOR LOOP 3-----------------
+head: 0x556de12192a0 current:0x556de121afd0 -> 29012344.224951
+head: 0x556de12192a0 temp:0x556de121b240 -> 38888888.863077
+--------------------EXIT FOR LOOP-----------------
+	(Arkoudakia:5)/100/1156ms - Going to Sleep
+temp_exp_burst: 36337448.074984 time: 1150000000 temp_last_burst: 40000000.000000 current->exp_burst: 29012344.224951 
+--------------------IN FOR LOOP 2-----------------
+head: 0x556de12192a0 temp:0x556de121b240 -> 38888888.863077
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121b240 -> 1150000000
+(Arkoudakia:5):(Arkoudi_1:8)/100/1156ms - Switching Process In
+###-Process: (Arkoudakia:5):(Arkoudi_1:8) is going down-###
+(Init:0)/0/1156ms - Switching Process In
+(Init:0)/0/1159ms - Switching Process In
+(Init:0)/0/1169ms - Switching Process In
+(Init:0)/0/1179ms - Switching Process In
+(Init:0)/0/1189ms - Switching Process In
+(Init:0)/0/1199ms - Switching Process In
+(Init:0)/0/1209ms - Switching Process In
+(Init:0)/0/1219ms - Switching Process In
+(Init:0)/0/1229ms - Switching Process In
+(Init:0)/0/1239ms - Switching Process In
+(Init:0)/0/1249ms - Switching Process In
+(Init:0)/0/1259ms - Switching Process In
+(Init:0)/0/1269ms - Switching Process In
+(Init:0)/0/1279ms - Switching Process In
+(Init:0)/0/1289ms - Switching Process In
+(Init:0)/0/1299ms - Switching Process In
+(Init:0)/0/1309ms - Switching Process In
+(Init:0)/0/1319ms - Switching Process In
+(Init:0)/0/1329ms - Switching Process In
+(Init:0)/0/1339ms - Switching Process In
+(Init:0)/0/1349ms - Switching Process In
+(Init:0)/0/1359ms - Switching Process In
+(Init:0)/0/1369ms - Switching Process In
+(Init:0)/0/1379ms - Switching Process In
+(Init:0)/0/1389ms - Switching Process In
+(Init:0)/0/1399ms - Switching Process In
+(Init:0)/0/1409ms - Switching Process In
+(Init:0)/0/1419ms - Switching Process In
+(Init:0)/0/1429ms - Switching Process In
+(Init:0)/0/1439ms - Switching Process In
+(Init:0)/0/1449ms - Switching Process In
+(Init:0)/0/1459ms - Switching Process In
+(Init:0)/0/1469ms - Switching Process In
+(Init:0)/0/1479ms - Switching Process In
+(Init:0)/0/1489ms - Switching Process In
+(Init:0)/0/1499ms - Switching Process In
+(Init:0)/0/1509ms - Switching Process In
+(Init:0)/0/1519ms - Switching Process In
+(Init:0)/0/1529ms - Switching Process In
+(Init:0)/0/1539ms - Switching Process In
+(Init:0)/0/1549ms - Switching Process In
+(Init:0)/0/1559ms - Switching Process In
+(Init:0)/0/1569ms - Switching Process In
+(Init:0)/0/1579ms - Switching Process In
+(Init:0)/0/1589ms - Switching Process In
+(Init:0)/0/1599ms - Switching Process In
+(Init:0)/0/1609ms - Switching Process In
+(Init:0)/0/1619ms - Switching Process In
+(Init:0)/0/1629ms - Switching Process In
+(Init:0)/0/1639ms - Switching Process In
+(Init:0)/0/1649ms - Switching Process In
+(Init:0)/0/1659ms - Switching Process In
+(Init:0)/0/1669ms - Switching Process In
+(Init:0)/0/1679ms - Switching Process In
+(Init:0)/0/1689ms - Switching Process In
+(Init:0)/0/1699ms - Switching Process In
+(Init:0)/0/1709ms - Switching Process In
+(Init:0)/0/1719ms - Switching Process In
+(Init:0)/0/1729ms - Switching Process In
+(Init:0)/0/1739ms - Switching Process In
+(Init:0)/0/1749ms - Switching Process In
+(Init:0)/0/1759ms - Switching Process In
+(Init:0)/0/1769ms - Switching Process In
+(Init:0)/0/1779ms - Switching Process In
+(Init:0)/0/1789ms - Switching Process In
+(Init:0)/0/1799ms - Switching Process In
+(Init:0)/0/1809ms - Switching Process In
+(Init:0)/0/1819ms - Switching Process In
+(Init:0)/0/1829ms - Switching Process In
+(Init:0)/0/1839ms - Switching Process In
+(Init:0)/0/1849ms - Switching Process In
+(Init:0)/0/1859ms - Switching Process In
+(Init:0)/0/1869ms - Switching Process In
+(Init:0)/0/1879ms - Switching Process In
+(Init:0)/0/1889ms - Switching Process In
+(Init:0)/0/1899ms - Switching Process In
+(Init:0)/0/1909ms - Switching Process In
+(Init:0)/0/1919ms - Switching Process In
+(Init:0)/0/1929ms - Switching Process In
+(Init:0)/0/1939ms - Switching Process In
+###-An Interrupt has fired!-###
+	(Arkoudakia:5)/100/1946ms - Waking Up from Sleep
+temp_exp_burst: 1302222222.222222 time: 1940000000 temp_last_burst: 1940000000.000000 current->exp_burst: 26666666.666667 
+--------------------IN FOR LOOP 2-----------------
+head: 0x556de12192a0 temp:0x556de121afd0 -> 36337448.074984
+--------------------EXIT FOR LOOP-----------------
+Got CPU: 0x556de121afd0 -> 1940000000
+(Arkoudakia:5)/100/1947ms - Switching Process In
+###-Process: (Arkoudakia:5) is going down-###
+(Init:0)/0/1947ms - Switching Process In
+###-Process: (Init:0) is going down-###
+###-Shutting Down CPU-###

@@ -1,0 +1,300 @@
+
+bb_init()
+    conn:
+    proto_major = 7
+    proto_minor = 31
+    async_read = 1
+    max_write = 131072
+    max_readahead = 131072
+    capable = 00000ffb
+    want = 00000010
+    max_background = 0
+    congestion_threshold = 0
+    context:
+    fuse = 1b0837a0
+    uid = 0
+    gid = 0
+    pid = 0
+    private_data = 1b0812a0
+    logfile = 1b0822d0
+    rootdir = /home/user/project4/fuse-tutorial-2018-02-04/example/rootdir
+    umask = 00000
+
+bb_getattr(path="/", statbuf=0x83b1ec10)
+    bb_fullpath:  rootdir = "/home/user/project4/fuse-tutorial-2018-02-04/example/rootdir", path = "/", fpath = "/home/user/project4/fuse-tutorial-2018-02-04/example/rootdir/"
+    lstat returned 0
+    si:
+    st_dev = 64768
+    st_ino = 282751
+    st_mode = 040775
+    st_nlink = 2
+    st_uid = 1000
+    st_gid = 1000
+    st_rdev = 0
+    st_size = 4096
+    st_blksize = 4096
+    st_blocks = 8
+    st_atime = 0x60b7cf00
+    st_mtime = 0x60b7cf13
+    st_ctime = 0x60b7cf13
+
+bb_access(path="/", mask=01)
+    bb_fullpath:  rootdir = "/home/user/project4/fuse-tutorial-2018-02-04/example/rootdir", path = "/", fpath = "/home/user/project4/fuse-tutorial-2018-02-04/example/rootdir/"
+
+bb_opendir(path="/", fi=0x83b1ec30)
+    bb_fullpath:  rootdir = "/home/user/project4/fuse-tutorial-2018-02-04/example/rootdir", path = "/", fpath = "/home/user/project4/fuse-tutorial-2018-02-04/example/rootdir/"
+    opendir returned 0x0x7f3c74000e50
+    fi:
+    flags = 0x00018800
+    fh_old = 0x00000000
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007f3c74000e50
+    lock_owner = 0x0000000000000000
+
+bb_getattr(path="/", statbuf=0x84341c10)
+    bb_fullpath:  rootdir = "/home/user/project4/fuse-tutorial-2018-02-04/example/rootdir", path = "/", fpath = "/home/user/project4/fuse-tutorial-2018-02-04/example/rootdir/"
+    lstat returned 0
+    si:
+    st_dev = 64768
+    st_ino = 282751
+    st_mode = 040775
+    st_nlink = 2
+    st_uid = 1000
+    st_gid = 1000
+    st_rdev = 0
+    st_size = 4096
+    st_blksize = 4096
+    st_blocks = 8
+    st_atime = 0x60b7cf00
+    st_mtime = 0x60b7cf13
+    st_ctime = 0x60b7cf13
+
+bb_readdir(path="/", buf=0x74000dd0, filler=0x8458abc0, offset=0, fi=0x83b1ec30)
+    readdir returned 0x0x7f3c74000e80
+calling filler with name ..
+calling filler with name eleni.txt
+calling filler with name file1.txt
+calling filler with name bogus.txt
+calling filler with name .
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7f3c74000e50
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007f3c74000e50
+    lock_owner = 0x0000000000000000
+
+bb_getattr(path="/eleni.txt", statbuf=0x84341c40)
+    bb_fullpath:  rootdir = "/home/user/project4/fuse-tutorial-2018-02-04/example/rootdir", path = "/eleni.txt", fpath = "/home/user/project4/fuse-tutorial-2018-02-04/example/rootdir/eleni.txt"
+    lstat returned 0
+    si:
+    st_dev = 64768
+    st_ino = 282891
+    st_mode = 0100664
+    st_nlink = 1
+    st_uid = 1000
+    st_gid = 1000
+    st_rdev = 0
+    st_size = 6
+    st_blksize = 4096
+    st_blocks = 8
+    st_atime = 0x60b7cf13
+    st_mtime = 0x60b7cf13
+    st_ctime = 0x60b7cf13
+
+bb_getattr(path="/file1.txt", statbuf=0x83b1ec40)
+    bb_fullpath:  rootdir = "/home/user/project4/fuse-tutorial-2018-02-04/example/rootdir", path = "/file1.txt", fpath = "/home/user/project4/fuse-tutorial-2018-02-04/example/rootdir/file1.txt"
+    lstat returned 0
+    si:
+    st_dev = 64768
+    st_ino = 282765
+    st_mode = 0100664
+    st_nlink = 1
+    st_uid = 1000
+    st_gid = 1000
+    st_rdev = 0
+    st_size = 12
+    st_blksize = 4096
+    st_blocks = 8
+    st_atime = 0x60b7caa9
+    st_mtime = 0x60b1174d
+    st_ctime = 0x60b1174d
+
+bb_getattr(path="/bogus.txt", statbuf=0x84341c40)
+    bb_fullpath:  rootdir = "/home/user/project4/fuse-tutorial-2018-02-04/example/rootdir", path = "/bogus.txt", fpath = "/home/user/project4/fuse-tutorial-2018-02-04/example/rootdir/bogus.txt"
+    lstat returned 0
+    si:
+    st_dev = 64768
+    st_ino = 282752
+    st_mode = 0100664
+    st_nlink = 1
+    st_uid = 1000
+    st_gid = 1000
+    st_rdev = 0
+    st_size = 11
+    st_blksize = 4096
+    st_blocks = 8
+    st_atime = 0x60b11002
+    st_mtime = 0x60b10b86
+    st_ctime = 0x60b10b86
+
+bb_releasedir(path="/", fi=0x84341c40)
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7f3c74000e50
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007f3c74000e50
+    lock_owner = 0x0000000000000000
+
+bb_opendir(path="/", fi=0x83b1ec30)
+    bb_fullpath:  rootdir = "/home/user/project4/fuse-tutorial-2018-02-04/example/rootdir", path = "/", fpath = "/home/user/project4/fuse-tutorial-2018-02-04/example/rootdir/"
+    opendir returned 0x0x7f3c74009450
+    fi:
+    flags = 0x00018800
+    fh_old = 0x00000000
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007f3c74009450
+    lock_owner = 0x0000000000000000
+
+bb_getattr(path="/", statbuf=0x84341c10)
+    bb_fullpath:  rootdir = "/home/user/project4/fuse-tutorial-2018-02-04/example/rootdir", path = "/", fpath = "/home/user/project4/fuse-tutorial-2018-02-04/example/rootdir/"
+    lstat returned 0
+    si:
+    st_dev = 64768
+    st_ino = 282751
+    st_mode = 040775
+    st_nlink = 2
+    st_uid = 1000
+    st_gid = 1000
+    st_rdev = 0
+    st_size = 4096
+    st_blksize = 4096
+    st_blocks = 8
+    st_atime = 0x60b7cfbe
+    st_mtime = 0x60b7cf13
+    st_ctime = 0x60b7cf13
+
+bb_readdir(path="/", buf=0x74000ee0, filler=0x8458abc0, offset=0, fi=0x83b1ec30)
+    readdir returned 0x0x7f3c74009480
+calling filler with name ..
+calling filler with name eleni.txt
+calling filler with name file1.txt
+calling filler with name bogus.txt
+calling filler with name .
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7f3c74009450
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007f3c74009450
+    lock_owner = 0x0000000000000000
+
+bb_getattr(path="/eleni.txt", statbuf=0x84341c40)
+    bb_fullpath:  rootdir = "/home/user/project4/fuse-tutorial-2018-02-04/example/rootdir", path = "/eleni.txt", fpath = "/home/user/project4/fuse-tutorial-2018-02-04/example/rootdir/eleni.txt"
+    lstat returned 0
+    si:
+    st_dev = 64768
+    st_ino = 282891
+    st_mode = 0100664
+    st_nlink = 1
+    st_uid = 1000
+    st_gid = 1000
+    st_rdev = 0
+    st_size = 6
+    st_blksize = 4096
+    st_blocks = 8
+    st_atime = 0x60b7cf13
+    st_mtime = 0x60b7cf13
+    st_ctime = 0x60b7cf13
+
+bb_getattr(path="/file1.txt", statbuf=0x83b1ec40)
+    bb_fullpath:  rootdir = "/home/user/project4/fuse-tutorial-2018-02-04/example/rootdir", path = "/file1.txt", fpath = "/home/user/project4/fuse-tutorial-2018-02-04/example/rootdir/file1.txt"
+    lstat returned 0
+    si:
+    st_dev = 64768
+    st_ino = 282765
+    st_mode = 0100664
+    st_nlink = 1
+    st_uid = 1000
+    st_gid = 1000
+    st_rdev = 0
+    st_size = 12
+    st_blksize = 4096
+    st_blocks = 8
+    st_atime = 0x60b7caa9
+    st_mtime = 0x60b1174d
+    st_ctime = 0x60b1174d
+
+bb_getattr(path="/bogus.txt", statbuf=0x83b1ec40)
+    bb_fullpath:  rootdir = "/home/user/project4/fuse-tutorial-2018-02-04/example/rootdir", path = "/bogus.txt", fpath = "/home/user/project4/fuse-tutorial-2018-02-04/example/rootdir/bogus.txt"
+    lstat returned 0
+    si:
+    st_dev = 64768
+    st_ino = 282752
+    st_mode = 0100664
+    st_nlink = 1
+    st_uid = 1000
+    st_gid = 1000
+    st_rdev = 0
+    st_size = 11
+    st_blksize = 4096
+    st_blocks = 8
+    st_atime = 0x60b11002
+    st_mtime = 0x60b10b86
+    st_ctime = 0x60b10b86
+
+bb_releasedir(path="/", fi=0x83b1ec40)
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7f3c74009450
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007f3c74009450
+    lock_owner = 0x0000000000000000
+
+bb_getattr(path="/", statbuf=0x84341c10)
+    bb_fullpath:  rootdir = "/home/user/project4/fuse-tutorial-2018-02-04/example/rootdir", path = "/", fpath = "/home/user/project4/fuse-tutorial-2018-02-04/example/rootdir/"
+    lstat returned 0
+    si:
+    st_dev = 64768
+    st_ino = 282751
+    st_mode = 040775
+    st_nlink = 2
+    st_uid = 1000
+    st_gid = 1000
+    st_rdev = 0
+    st_size = 4096
+    st_blksize = 4096
+    st_blocks = 8
+    st_atime = 0x60b7cfbe
+    st_mtime = 0x60b7cf13
+    st_ctime = 0x60b7cf13
+
+bb_getattr(path="/", statbuf=0x83b1ec10)
+    bb_fullpath:  rootdir = "/home/user/project4/fuse-tutorial-2018-02-04/example/rootdir", path = "/", fpath = "/home/user/project4/fuse-tutorial-2018-02-04/example/rootdir/"
+    lstat returned 0
+    si:
+    st_dev = 64768
+    st_ino = 282751
+    st_mode = 040775
+    st_nlink = 2
+    st_uid = 1000
+    st_gid = 1000
+    st_rdev = 0
+    st_size = 4096
+    st_blksize = 4096
+    st_blocks = 8
+    st_atime = 0x60b7cfbe
+    st_mtime = 0x60b7cf13
+    st_ctime = 0x60b7cf13
+
+bb_destroy(userdata=0x1b0812a0)
